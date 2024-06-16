@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-##Jane Doe's Portfolio
 
 ## About Me
 
@@ -32,23 +31,24 @@ Hello! I'm Murali Krishna Mididoddi, a passionate Data Analyst and aspiring Data
 ## Skills
 
 ### Programming Languages
+-**JAVA**:Java,Spring
 - **Python**: Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn
-- **R**: Tidyverse, ggplot2, caret
-- **SQL**: MySQL, PostgreSQL
+- **SQL**: MySQL
 - **Data Visualization**: Tableau, Power BI
+- **Spreadsheets**:Excel, Google Sheets
 
 ### Tools and Technologies
-- **Machine Learning**: Regression, Classification, Clustering, Neural Networks
-- **Statistical Analysis**: Hypothesis Testing, A/B Testing, ANOVA
+- **Machine Learning**: Regression, Classification, Clustering
+- **Statistical Analysis**: Hypothesis Testing, A/B Testing
 - **Data Wrangling**: Data Cleaning, Data Transformation, ETL Processes
 - **Version Control**: Git, GitHub
 
 ## Projects
 
-### [Project 1: Sales Data Analysis](https://github.com/janedoe/sales-data-analysis)
-- **Description**: Analyzed sales data to identify trends and patterns, providing actionable insights to improve sales strategies.
-- **Skills Used**: Python, Pandas, Matplotlib, Seaborn
-- **Key Achievements**: Increased sales forecasting accuracy by 15%.
+### [Project 1: Student Management System](https://github.com/muraliKrishnaMididoddi/studentmngt/blob/main/student-management-system-springboot%20(1).zip)
+- **Description**: A comprehensive Student Management System built with Java Spring Boot to streamline student data management, course registration, and academic tracking.
+- **Skills Used**: JAVA,HTML,Spring Boot
+- **Key Achievements**: Enhanced data accuracy by 25%, reduced administrative processing time by 40%, and improved user satisfaction by 30%.
 
 ### [Project 2: Customer Segmentation](https://github.com/janedoe/customer-segmentation)
 - **Description**: Implemented K-means clustering to segment customers based on purchasing behavior for targeted marketing campaigns.
