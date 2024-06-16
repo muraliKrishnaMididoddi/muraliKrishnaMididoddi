@@ -31,7 +31,7 @@ Hello! I'm Murali Krishna Mididoddi, a passionate Data Analyst and aspiring Data
 ## Skills
 
 ### Programming Languages
--**JAVA**:Java,Spring
+- **JAVA**:Java,Spring
 - **Python**: Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn
 - **SQL**: MySQL
 - **Data Visualization**: Tableau, Power BI
