@@ -67,24 +67,28 @@ Hello! I'm Murali Krishna Mididoddi, a passionate Data Analyst and aspiring Data
 
 ## Education
 
-### Bachelor of Science in Data Science
-**University Name** - City, Country  
-Graduated: May 2023  
-Relevant Coursework: Data Mining, Statistical Methods, Machine Learning, Database Management
+### Masters in Big Data Analytics and IT
+**University of Central Missouri** - Warrensburg, United States 
+Graduated: Expected to be in May 2025
+Relevant Coursework: Big Data Analytics,Data Mining, Statistical Methods, Machine Learning, Database Management, Project Management, Business Intelligence, Info Visualization with Tableau
+
+### Bachelor of Technology in Electronics and Communications Engineering
+**JNTUK** - Kakinada, India
+Graduated: May 2022  
+
 
 ## Certifications
 
-- **IBM Data Science Professional Certificate** - Coursera
-- **Google Data Analytics Certificate** - Coursera
-- **SQL for Data Science** - DataCamp
+- **Google Data Analytics Certificate** - Coursera(In progress)
+
 
 ## Contact
 
 Feel free to reach out to me via the following channels:
 
-- **Email**: [jane.doe@example.com](mailto:jane.doe@example.com)
-- **LinkedIn**: [linkedin.com/in/janedoe](https://www.linkedin.com/in/janedoe/)
-- **GitHub**: [github.com/janedoe](https://github.com/janedoe)
+- **Email**: [mididoddimuralikrishna@gmail.com](mailto:mididoddimuralikrishna@gmail.com)
+- **LinkedIn**: [linkedin.com/in/murali-krishna-mididoddi/](https://www.linkedin.com/in/murali-krishna-mididoddi/)
+- **GitHub**: [github.com/muraliKrishnaMididoddi](https://github.com/muraliKrishnaMididoddi)
 
 ## Acknowledgements
 
