@@ -50,17 +50,17 @@ Hello! I'm Murali Krishna Mididoddi, a passionate Data Analyst and aspiring Data
 - **Skills Used**: JAVA,HTML,Spring Boot
 - **Key Achievements**: Enhanced data accuracy by 25%, reduced administrative processing time by 40%, and improved user satisfaction by 30%.
 
-### [Project 2: Movie Portfolio Project][(https://github.com/muraliKrishnaMididoddi/PortfolioProjects/blob/main/Movie%20Portfolio%20Project.ipynb)]
+### [Project 2: Movie Portfolio Project](https://github.com/muraliKrishnaMididoddi/PortfolioProjects/blob/main/Movie%20Portfolio%20Project.ipynb)
 - **Description**: Developed a Python-based movie portfolio application to manage and analyze movie collections, featuring data visualization and search functionality.
 - **Skills Used**: Python, Scikit-Learn, Data Visualization, Matplotlib, Numpy, Pandas
 - **Key Achievements**: Achieved 95% accuracy in movie recommendation predictions using collaborative filtering and improved search speed by 70% with optimized database queries.
 
-### [Project 3: DATA Cleaning with SQL][(https://github.com/muraliKrishnaMididoddi/PortfolioProjects/blob/main/SQL%20DATA%20CLEANING.sql)]
+### [Project 3: DATA Cleaning with SQL](https://github.com/muraliKrishnaMididoddi/PortfolioProjects/blob/main/SQL%20DATA%20CLEANING.sql)
 - **Description**: Efficiently cleansed and standardized raw datasets using SQL queries for enhanced data integrity and usability.
 - **Skills Used**: SQL
 - **Key Achievements**: Reduced data duplication by 30% through SQL-based cleaning processes, enhancing data accuracy and reliability.
   
-### [Project 4: Store Sales Analysis with Tableau ][(https://github.com/muraliKrishnaMididoddi/PortfolioProjects/blob/main/tableau%20analysis%201.twbx)]
+### [Project 4: Store Sales Analysis with Tableau ](https://github.com/muraliKrishnaMididoddi/PortfolioProjects/blob/main/tableau%20analysis%201.twbx)
 - **Description**:Store sales analysis visualized with Tableau, offering insights into revenue trends and performance metrics.
 - **Skills Used**: Tableau
 - **Key Achievements**: Identified sales trends and optimized product placement strategies, resulting in a 10% increase in revenue.
