@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Jane Doe's Portfolio
+##Jane Doe's Portfolio
 
 ## About Me
 
-Hello! I'm Jane Doe, a passionate Data Analyst and aspiring Data Scientist with a strong background in data analysis, statistical modeling, and machine learning. I'm currently seeking an internship opportunity to apply my skills and gain practical experience in a professional setting. Welcome to my portfolio, where I showcase my projects, skills, and achievements.
+Hello! I'm Murali Krishna Mididoddi, a passionate Data Analyst and aspiring Data Scientist with a strong background in data analysis, statistical modeling, and machine learning. I'm currently seeking an internship opportunity to apply my skills and gain practical experience in a professional setting. Welcome to my portfolio, where I showcase my projects, skills, and achievements.
 
 ## Table of Contents
 
