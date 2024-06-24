@@ -45,7 +45,7 @@ Hello! I'm Murali Krishna Mididoddi, a passionate Data Analyst and aspiring Data
 
 ## Projects
 
-### [Project 1: Landing page optimization usin A/B Testing](https://github.com/muraliKrishnaMididoddi/PortfolioProjects/blob/main/ABTesting.ipynb)
+### [Project 1: Landing page optimization using A/B Testing](https://github.com/muraliKrishnaMididoddi/PortfolioProjects/blob/main/ABTesting.ipynb)
 - **Description**:Implemented an A/B testing framework to optimize landing page elements, enhancing user engagement and conversion rates.
 - **Skills Used**: Pandas,scipykit,seaborn,numpy,Statistical Analysis, A/B Testing
 - **Key Achievements**: : Achieved a 15% increase in conversion rates and a 10% reduction in bounce rates by analyzing user behavior and iterating on design elements through data-driven A/B tests.
