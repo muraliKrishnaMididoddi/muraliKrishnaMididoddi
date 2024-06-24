@@ -64,6 +64,12 @@ Hello! I'm Murali Krishna Mididoddi, a passionate Data Analyst and aspiring Data
 - **Description**:Store sales analysis visualized with Tableau, offering insights into revenue trends and performance metrics.
 - **Skills Used**: Tableau
 - **Key Achievements**: Identified sales trends and optimized product placement strategies, resulting in a 10% increase in revenue.
+  
+### [Project 5: Landing page optimization usin A/B Testing](https://github.com/muraliKrishnaMididoddi/PortfolioProjects/blob/main/tableau%20analysis%201.twbx)
+- **Description**:Store sales analysis visualized with Tableau, offering insights into revenue trends and performance metrics.
+- **Skills Used**: Tableau
+- **Key Achievements**: Identified sales trends and optimized product placement strategies, resulting in a 10% increase in revenue.
+
 
 ## Education
 
