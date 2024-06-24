@@ -50,11 +50,6 @@ Hello! I'm Murali Krishna Mididoddi, a passionate Data Analyst and aspiring Data
 - **Skills Used**: Pandas,scipykit,seaborn,numpy,Statistical Analysis, A/B Testing
 - **Key Achievements**: : Achieved a 15% increase in conversion rates and a 10% reduction in bounce rates by analyzing user behavior and iterating on design elements through data-driven A/B tests.
 
-### [Project 1: Student Management System](https://github.com/muraliKrishnaMididoddi/studentmngt/blob/main/student-management-system-springboot%20(1).zip)
-- **Description**: A comprehensive Student Management System built with Java Spring Boot to streamline student data management, course registration, and academic tracking.
-- **Skills Used**: JAVA,HTML,Spring Boot
-- **Key Achievements**: Enhanced data accuracy by 25%, reduced administrative processing time by 40%, and improved user satisfaction by 30%.
-
 ### [Project 2: Movie Portfolio Project](https://github.com/muraliKrishnaMididoddi/PortfolioProjects/blob/main/Movie%20Portfolio%20Project.ipynb)
 - **Description**: Developed a Python-based movie portfolio application to manage and analyze movie collections, featuring data visualization and search functionality.
 - **Skills Used**: Python, Scikit-Learn, Data Visualization, Matplotlib, Numpy, Pandas
