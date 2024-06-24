@@ -45,6 +45,11 @@ Hello! I'm Murali Krishna Mididoddi, a passionate Data Analyst and aspiring Data
 
 ## Projects
 
+### [Project 1: Landing page optimization usin A/B Testing](https://github.com/muraliKrishnaMididoddi/PortfolioProjects/blob/main/ABTesting.ipynb)
+- **Description**:Implemented an A/B testing framework to optimize landing page elements, enhancing user engagement and conversion rates.
+- **Skills Used**: Pandas,scipykit,seaborn,numpy,Statistical Analysis, A/B Testing
+- **Key Achievements**: : Achieved a 15% increase in conversion rates and a 10% reduction in bounce rates by analyzing user behavior and iterating on design elements through data-driven A/B tests.
+
 ### [Project 1: Student Management System](https://github.com/muraliKrishnaMididoddi/studentmngt/blob/main/student-management-system-springboot%20(1).zip)
 - **Description**: A comprehensive Student Management System built with Java Spring Boot to streamline student data management, course registration, and academic tracking.
 - **Skills Used**: JAVA,HTML,Spring Boot
@@ -65,10 +70,10 @@ Hello! I'm Murali Krishna Mididoddi, a passionate Data Analyst and aspiring Data
 - **Skills Used**: Tableau
 - **Key Achievements**: Identified sales trends and optimized product placement strategies, resulting in a 10% increase in revenue.
   
-### [Project 5: Landing page optimization usin A/B Testing](https://github.com/muraliKrishnaMididoddi/PortfolioProjects/blob/main/ABTesting.ipynb)
-- **Description**:Implemented an A/B testing framework to optimize landing page elements, enhancing user engagement and conversion rates.
-- **Skills Used**: Pandas,scipykit,seaborn,numpy,Statistical Analysis, A/B Testing
-- **Key Achievements**: : Achieved a 15% increase in conversion rates and a 10% reduction in bounce rates by analyzing user behavior and iterating on design elements through data-driven A/B tests.
+### [Project 5: Student Management System](https://github.com/muraliKrishnaMididoddi/studentmngt/blob/main/student-management-system-springboot%20(1).zip)
+- **Description**: A comprehensive Student Management System built with Java Spring Boot to streamline student data management, course registration, and academic tracking.
+- **Skills Used**: JAVA,HTML,Spring Boot
+- **Key Achievements**: Enhanced data accuracy by 25%, reduced administrative processing time by 40%, and improved user satisfaction by 30%.
 
 
 ## Education
