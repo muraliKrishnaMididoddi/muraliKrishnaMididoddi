@@ -65,10 +65,10 @@ Hello! I'm Murali Krishna Mididoddi, a passionate Data Analyst and aspiring Data
 - **Skills Used**: Tableau
 - **Key Achievements**: Identified sales trends and optimized product placement strategies, resulting in a 10% increase in revenue.
   
-### [Project 5: Landing page optimization usin A/B Testing](https://github.com/muraliKrishnaMididoddi/PortfolioProjects/blob/main/tableau%20analysis%201.twbx)
-- **Description**:Store sales analysis visualized with Tableau, offering insights into revenue trends and performance metrics.
-- **Skills Used**: Tableau
-- **Key Achievements**: Identified sales trends and optimized product placement strategies, resulting in a 10% increase in revenue.
+### [Project 5: Landing page optimization usin A/B Testing](https://github.com/muraliKrishnaMididoddi/PortfolioProjects)
+- **Description**:Implemented an A/B testing framework to optimize landing page elements, enhancing user engagement and conversion rates.
+- **Skills Used**: Pandas,scipykit,seaborn,numpy,Statistical Analysis, A/B Testing
+- **Key Achievements**: : Achieved a 15% increase in conversion rates and a 10% reduction in bounce rates by analyzing user behavior and iterating on design elements through data-driven A/B tests.
 
 
 ## Education
