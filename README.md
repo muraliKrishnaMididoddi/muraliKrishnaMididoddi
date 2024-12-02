@@ -41,11 +41,37 @@ Hello! I'm Murali Krishna Mididoddi, a passionate Data Analyst and aspiring Data
 - **Web Development**: HTML, CSS, React, Node.js
 - **Soft Skills**: Strong problem-solving, teamwork, and communication skills 
 
-### Tools and Technologies
-- **Machine Learning**: Regression, Classification, Clustering
-- **Statistical Analysis**: Hypothesis Testing, A/B Testing
-- **Data Wrangling**: Data Cleaning, Data Transformation, ETL Processes
-- **Version Control**: Git, GitHub
+##Experience
+
+###International Conference on Machine Learning (ICML) 
+Attended ICML 2024 (Jul 2024 - Jul 2024 )
+
+• Attended workshops and sessions on state-of-the-art machine learning techniques, such as deep learning and reinforcement 
+learning, enhancing technical understanding of algorithm development and application in real-world scenarios. 
+• Participated in hands-on tutorials, mastering tools like TensorFlow and PyTorch to optimize models and improve data workflows, 
+aligning with requirements for data science and data modeling projects. 
+• Engaged with leading researchers and AI professionals by fostering connections and exploring collaboration potentials in data 
+integration, centralization, and large-scale machine learning deployments. 
+
+###Indian Railways 
+Data intern ( May 2021 - Jun 2021) 
+
+• Developed predictive models using historical data to forecast rail demand and maintenance needs, enhancing scheduling accuracy 
+and contributing to operational efficiency, which aligns with skills in complex analysis and insight generation. 
+• Analyzed and processed extensive data records, leveraging SQL and data visualization techniques to reduce operational delays and 
+improve business performance. 
+• Collaborated with data analysts to automate daily reporting, optimizing report generation processes through data modeling and 
+increasing real-time decision-making capabilities, pertinent to business intelligence tasks. 
+
+###NXTWave 
+FullStack Engineer(Jun 2019 - Dec 2022 ) 
+
+• Mastered front-end development skills using HTML, CSS, and JavaScript frameworks (React), enabling the creation of responsive and 
+user-friendly web applications. 
+• Gained proficiency in back-end technologies, including Node.js and Express, as well as working with databases like SQL, allowing for 
+the development of robust server-side applications and API integrations. 
+• Learned best practices for version control with Git, agile development methodologies, and deployment strategies, ensuring effective 
+collaboration within teams and streamlined project management. 
 
 ## Projects
 
