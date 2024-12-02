@@ -31,11 +31,15 @@ Hello! I'm Murali Krishna Mididoddi, a passionate Data Analyst and aspiring Data
 ## Skills
 
 ### Programming Languages
-- **JAVA**:Java,Spring
-- **Python**: Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn
-- **SQL**: MySQL
-- **Data Visualization**: Tableau, Power BI
-- **Spreadsheets**:Excel, Google Sheets
+- **Programming languages**: SQL, Python, Java, R, pyspark, Excel, express
+- **Database Management**: MySQL, PostgreSQL, MongoDB
+- **Version Control**: Git/GitHub
+- **Big Data & Cloud Platforms**: Azure Data Factory, AWS S3, Google BigQuery
+- **Data Analysis & Visualization**: Power BI, Tableau, Microsoft Excel (Advanced), DAX, M, Google Data Studio
+- **Statistical Analysis & Machine Learning**: NumPy, Pandas, scikit-learn, Matplotlib 
+- **Cloud Platforms**: Azure (especially Power BI integration), AWS basics 
+- **Web Development**: HTML, CSS, React, Node.js
+- **Soft Skills**: Strong problem-solving, teamwork, and communication skills 
 
 ### Tools and Technologies
 - **Machine Learning**: Regression, Classification, Clustering
