@@ -105,7 +105,7 @@ collaboration within teams and streamlined project management.
 
 ### Masters in Big Data Analytics and IT
 **University of Central Missouri** - Warrensburg, United States 
-Graduated: Expected to be in May 2025
+Graduating dec 2024
 Relevant Coursework: Big Data Analytics,Data Mining, Statistical Methods, Machine Learning, Database Management, Project Management, Business Intelligence, Info Visualization with Tableau
 
 ### Bachelor of Technology in Electronics and Communications Engineering
@@ -116,6 +116,10 @@ Graduated: May 2022
 ## Certifications
 
 - **Google Data Analytics Certificate** - Coursera(In progress)
+- **Microsoft Certified**: Power BI Analyst Associate: Sep 2024 - Sep 2025
+- **AWS Certified Cloud Practitioner**: Sep 2024 - Sep 2027
+- **Hacker rank SQL Certificate**: July 2024
+- **IT Academy Network Virtualization by VMware**: Jan 2021
 
 
 ## Contact
