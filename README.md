@@ -41,9 +41,9 @@ Hello! I'm Murali Krishna Mididoddi, a passionate Data Analyst and aspiring Data
 - **Web Development**: HTML, CSS, React, Node.js
 - **Soft Skills**: Strong problem-solving, teamwork, and communication skills 
 
-##Experience
+## Experience
 
-###International Conference on Machine Learning (ICML) 
+### International Conference on Machine Learning (ICML) 
 Attended ICML 2024 (Jul 2024 - Jul 2024 )
 
 • Attended workshops and sessions on state-of-the-art machine learning techniques, such as deep learning and reinforcement 
@@ -53,7 +53,7 @@ aligning with requirements for data science and data modeling projects.
 • Engaged with leading researchers and AI professionals by fostering connections and exploring collaboration potentials in data 
 integration, centralization, and large-scale machine learning deployments. 
 
-###Indian Railways 
+### Indian Railways 
 Data intern ( May 2021 - Jun 2021) 
 
 • Developed predictive models using historical data to forecast rail demand and maintenance needs, enhancing scheduling accuracy 
@@ -63,7 +63,7 @@ improve business performance.
 • Collaborated with data analysts to automate daily reporting, optimizing report generation processes through data modeling and 
 increasing real-time decision-making capabilities, pertinent to business intelligence tasks. 
 
-###NXTWave 
+### NXTWave 
 FullStack Engineer(Jun 2019 - Dec 2022 ) 
 
 • Mastered front-end development skills using HTML, CSS, and JavaScript frameworks (React), enabling the creation of responsive and 
