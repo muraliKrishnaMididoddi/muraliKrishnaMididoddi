@@ -94,7 +94,7 @@ and pre-trained transformer models
 - **Skills Used**: Python, Scikit-Learn, Data Visualization, Matplotlib, Numpy, Pandas
 - **Key Achievements**: Achieved 95% accuracy in movie recommendation predictions using collaborative filtering and improved search speed by 70% with optimized database queries.
 
-### [Project 5 :  Clustering wine dataset with k-means and DBSCAN][(https://github.com/muraliKrishnaMididoddi/PortfolioProjects/blob/main/Clustering%20wine%20dataset%20with%20k-means%20and%20DBSCAN.ipynb)
+### [Project 5 :  Clustering wine dataset with k-means and DBSCAN](https://github.com/muraliKrishnaMididoddi/PortfolioProjects/blob/main/Clustering%20wine%20dataset%20with%20k-means%20and%20DBSCAN.ipynb)
 - **Description**: Successfully classified 1,000+ wine samples into distinct quality clusters, leveraging K-means for well-defined groups and DBSCAN 
 for outlier detection, ensuring data integrity.
 - Achieved 15% higher accuracy in identifying quality-based clusters, providing actionable segmentation insights for wine quality 
