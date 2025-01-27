@@ -146,6 +146,11 @@ indicating a strong balance between false positives and false negatives.
 -  Model reduced fraud detection latency by 30%, enabling faster transaction screening and actionable insights for fraud pattern 
 identification, aiding real-time fraud mitigation.
 
+### [Project 11 : collaborative-filtering-recommendation-engine](https://github.com/muraliKrishnaMididoddi/collaborative-filtering-recommendation-engine)
+- **Description**: Developed a Collaborative Filtering Recommendation Engine using Apache Spark’s MLlib to predict user preferences and generate personalized item recommendations. Leveraged the Alternating Least Squares (ALS) algorithm for efficient matrix factorization, enabling scalable and accurate predictions for large datasets. Evaluated model performance using Root Mean Squared Error (RMSE) and incorporated strategies to handle cold-start problems.
+- **Skills Used**: Python, PySpark, Apache Spark, Spark MLlib, DataFrames, Collaborative Filtering, Alternating Least Squares (ALS), Recommendation Systems.
+- **Key Achievements**: -**Enhanced data accuracy by 25%, reduced administrative processing time by 40%, and improved user satisfaction by 30%.**
+
 
 ## Education
 
