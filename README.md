@@ -150,9 +150,9 @@ identification, aiding real-time fraud mitigation.
 - **Description**: Developed a Collaborative Filtering Recommendation Engine using Apache Spark’s MLlib to predict user preferences and generate personalized item recommendations. Leveraged the Alternating Least Squares (ALS) algorithm for efficient matrix factorization, enabling scalable and accurate predictions for large datasets. Evaluated model performance using Root Mean Squared Error (RMSE) and incorporated strategies to handle cold-start problems.
 - **Skills Used**: Python, PySpark, Apache Spark, Spark MLlib, DataFrames, Collaborative Filtering, Alternating Least Squares (ALS), Recommendation Systems.
 - **Key Achievements**:
-      -***1. Achieved a  0.8722966401721832 RMSE on the test set, demonstrating high prediction accuracy for user-item interactions, ensuring the recommendation system's reliability.***
-      -***2.Processed 2M user-item interactions using Apache Spark’s distributed computing capabilities, handling large datasets efficiently and enabling scalable recommendations.***
-      -***3.Generated top 10 personalized recommendations for over 2M users, enhancing user engagement and improving the potential for better product or content discovery.***
+-***1. Achieved a  0.8722966401721832 RMSE on the test set, demonstrating high prediction accuracy for user-item interactions, ensuring the recommendation system's reliability.***
+-***2.Processed 2M user-item interactions using Apache Spark’s distributed computing capabilities, handling large datasets efficiently and enabling scalable recommendations.***
+-***3.Generated top 10 personalized recommendations for over 2M users, enhancing user engagement and improving the potential for better product or content discovery.***
 
 
 ## Education
