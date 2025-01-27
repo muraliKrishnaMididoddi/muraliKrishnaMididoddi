@@ -49,8 +49,8 @@ Hello! I'm Murali Krishna Mididoddi, Machine Learning Engineer and Data Analyst 
 
 Business Analyst Intern (May 2019 - Apr 2021)
 
-•  Developed Financial Reporting Data Storage Systems drafts, leveraging Agile/Scrum with JIRA to gather requirements
- and facilitate user stories workshops.
+-** Developed Financial Reporting Data Storage Systems drafts, leveraging Agile/Scrum with JIRA to gather requirements
+ and facilitate user stories workshops.**
 •  Conducted Agile sprints and facilitated user story workshops, enhancing collaboration and reducing project delivery time
  by 15%.
  •  Validated and migrated data from legacy systems to auditable databases, achieving 99% data accuracy for financial
