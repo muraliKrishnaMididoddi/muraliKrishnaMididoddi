@@ -75,12 +75,12 @@ increasing real-time decision-making capabilities, pertinent to business intelli
 ### International Conference on Machine Learning (ICML) 
 Attended ICML 2024 (Jul 2024 - Jul 2024 )
 
-• Attended workshops and sessions on state-of-the-art machine learning techniques, such as deep learning and reinforcement 
-learning, enhancing technical understanding of algorithm development and application in real-world scenarios. 
-• Participated in hands-on tutorials, mastering tools like TensorFlow and PyTorch to optimize models and improve data workflows, 
-aligning with requirements for data science and data modeling projects. 
-• Engaged with leading researchers and AI professionals by fostering connections and exploring collaboration potentials in data 
-integration, centralization, and large-scale machine learning deployments. 
+- **Attended workshops and sessions on state-of-the-art machine learning techniques, such as deep learning and reinforcement 
+learning, enhancing technical understanding of algorithm development and application in real-world scenarios.**  
+- **Participated in hands-on tutorials, mastering tools like TensorFlow and PyTorch to optimize models and improve data workflows, 
+aligning with requirements for data science and data modeling projects.**  
+- **Engaged with leading researchers and AI professionals by fostering connections and exploring collaboration potentials in data 
+integration, centralization, and large-scale machine learning deployments.**  
 
 
 ## Projects
