@@ -49,25 +49,25 @@ Hello! I'm Murali Krishna Mididoddi, Machine Learning Engineer and Data Analyst 
 
 Business Analyst Intern (May 2019 - Apr 2021)
 
-- ** Developed Financial Reporting Data Storage Systems drafts, leveraging Agile/Scrum with JIRA to gather requirements
+- **Developed Financial Reporting Data Storage Systems drafts, leveraging Agile/Scrum with JIRA to gather requirements
  and facilitate user stories workshops.**
-- ** Conducted Agile sprints and facilitated user story workshops, enhancing collaboration and reducing project delivery time
+- **Conducted Agile sprints and facilitated user story workshops, enhancing collaboration and reducing project delivery time
  by 15%. **
-- ** Validated and migrated data from legacy systems to auditable databases, achieving 99% data accuracy for financial
+- **Validated and migrated data from legacy systems to auditable databases, achieving 99% data accuracy for financial
  reports. **
-- ** Performed SQL-based backend testing and ETL data analysis, ensuring seamless report generation. **
-- ** Designed dashboards and KPIs to track performance metrics, optimizing resource allocation and decision-making. **
-- ** Interacted with business owners and SMEs to document use cases, activity diagrams, and technical requirements. **
+- **Performed SQL-based backend testing and ETL data analysis, ensuring seamless report generation. **
+- **Designed dashboards and KPIs to track performance metrics, optimizing resource allocation and decision-making. **
+- **Interacted with business owners and SMEs to document use cases, activity diagrams, and technical requirements. **
 
 ### Indian Railways 
 
 Data intern ( May 2021 - Jun 2021) 
 
-- ** Developed predictive models using historical data to forecast rail demand and maintenance needs, enhancing scheduling accuracy 
+- **Developed predictive models using historical data to forecast rail demand and maintenance needs, enhancing scheduling accuracy 
 and contributing to operational efficiency, which aligns with skills in complex analysis and insight generation. ** 
-- ** Analyzed and processed extensive data records, leveraging SQL and data visualization techniques to reduce operational delays and 
+- **Analyzed and processed extensive data records, leveraging SQL and data visualization techniques to reduce operational delays and 
 improve business performance. ** 
-- ** Collaborated with data analysts to automate daily reporting, optimizing report generation processes through data modeling and 
+- **Collaborated with data analysts to automate daily reporting, optimizing report generation processes through data modeling and 
 increasing real-time decision-making capabilities, pertinent to business intelligence tasks. ** 
 
 ## Conferences and Workshops
