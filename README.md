@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 ## About Me
 
-Hello! I'm Murali Krishna Mididoddi, Machine Learning Engineer and Data Analyst with practical experience in predictive modeling and automation, interned at Indian Railways to enhance process optimization. Enhanced scheduling accuracy and reduced downtime through predictive models. Participated in the International Conference on Machine Learning for deeper understanding and application of advanced techniques. Seeks to utilize analytics expertise and teamwork skills to develop scalable solutions for complex business challenges.
-
+Hello! I'm Murali Krishna Mididoddi,Machine Learning Engineer with expertise in Big Data Engineering, Data Analytics, and ML. Proficient in designing and optimizing scalable data pipelines, deploying ML models, and implementing real-time fraud detection systems. Strong 
+in SQL, Python, Exploratory Data Analysis, AWS, and data engineering, with a track record of delivering cost-effective, high-performance solutions. Passionate about transforming raw data into actionable insights.
 ## Table of Contents
 
 - [About Me](#about-me)
@@ -47,28 +47,37 @@ Hello! I'm Murali Krishna Mididoddi, Machine Learning Engineer and Data Analyst 
 
 ### Adroit IT Solutions
 
-Business Analyst Intern (May 2019 - Apr 2021)
+Junior Data Scientist (June 2021 - Apr 2022)
 
-- **Developed Financial Reporting Data Storage Systems drafts, leveraging Agile/Scrum with JIRA to gather requirements
- and facilitate user stories workshops.**
-- **Conducted Agile sprints and facilitated user story workshops, enhancing collaboration and reducing project delivery time
- by 15%.**
-- **Validated and migrated data from legacy systems to auditable databases, achieving 99% data accuracy for financial
- reports.**
-- **Performed SQL-based backend testing and ETL data analysis, ensuring seamless report generation.**
-- **Designed dashboards and KPIs to track performance metrics, optimizing resource allocation and decision-making.**
-- **Interacted with business owners and SMEs to document use cases, activity diagrams, and technical requirements.**
+- ** Designed automatic ETL pipelines for real-time fraud detection using Apache Airflow**
+- ** Used ML models (Regression Models, Time-series Analysis, Random Forest) that improved F1-score by 40%**
+- ** Processed 284,807 transactions, utilizing SMOTE to enhance fraud detection recall to 87%.**
+- ** Built graph-based fraud analytics using Neo4J & Cypher, uncovering hidden fraud patterns**
+- ** Designed interactive Power BI dashboards integrating A/B testing and ML-driven KPIs.**
+- ** Reduced fraud detection latency by 30%, enabling real-time risk mitigation**
 
 ### Indian Railways 
 
 Data intern ( May 2021 - Jun 2021) 
 
-- **Developed predictive models using historical data to forecast rail demand and maintenance needs, enhancing scheduling accuracy 
-and contributing to operational efficiency, which aligns with skills in complex analysis and insight generation.** 
-- **Analyzed and processed extensive data records, leveraging SQL and data visualization techniques to reduce operational delays and 
-improve business performance.** 
-- **Collaborated with data analysts to automate daily reporting, optimizing report generation processes through data modeling and 
-increasing real-time decision-making capabilities, pertinent to business intelligence tasks.** 
+- ** Wrote SQL queries to analyze railway freight datasets, identifying 23% inconsistencies and improving decision-making.** 
+- ** Optimized railway routes using Dijkstra's Algorithm in R, reducing route load by 30% and increasing station frequency.** 
+- ** Automated data workflows using Python, reducing manual errors by 25% and saving $20K annually**
+- ** Embedded Power BI dashboards, enhancing data visibility and improving decision-making by 30%**
+- ** Built an end to end Data pipeline for streaming real time data using RESTful API's.**
+- **  Conducted regression analysis to predict tool material and size for safety factors.** 
+
+### Adroit IT Solutions
+
+Data Analyst (MAy 2019 - Apr 2021)
+
+- **  Collected, cleaned, and processed 1.2 million+ rows of raw data from various sources using SQL and Python, improving data quality 
+by 30%.**
+- **  Developed 10+ automated data visualization dashboards in Power BI, increasing report generation efficiency by 40%.**
+- ** Performed statistical analysis using Python and Excel to identify trends and patterns, enhancing decision-making processes for 
+stakeholders.**
+- ** Collaborated with senior analysts to implement ETL pipelines, reducing data processing time by 25% **
+- ** Applied data wrangling techniques to integrate data from 5+ sources, enhancing analytical capabilities**
 
 ## Conferences and Workshops
 
@@ -178,6 +187,7 @@ collaboration within teams and streamlined project management.
 
 ## Certifications
 
+- **AWS Certified Machine Learning **: Specialty: Feb 2025 - Feb 2028
 - **Microsoft Certification**: Power BI Analyst Associate: Sep 2024 - Sep 2025
 - **Foundations: Data, Data, Everywhere by Google (Coursera)**: May 2024
 - **AWS Certified Cloud Practitioner**: Sep 2024 - Sep 2027
