@@ -200,7 +200,7 @@ collaboration within teams and streamlined project management.
 ## Publications
 
 ### A Statistical Survey of Energy Efficient WSN Protocols in 
-Communication Networks -Part 1 ###
+Communication Networks -Part 1 , MAT Journals ###
 
 ## Contact
 
