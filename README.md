@@ -188,7 +188,7 @@ collaboration within teams and streamlined project management.
 
 ## Certifications
 
-- **AWS Certified Machine Learning **: Specialty: Feb 2025 - Feb 2028
+- **AWS Certified Machine Learning**: Specialty: Feb 2025 - Feb 2028
 - **Microsoft Certification**: Power BI Analyst Associate: Sep 2024 - Sep 2025
 - **Foundations: Data, Data, Everywhere by Google (Coursera)**: May 2024
 - **AWS Certified Cloud Practitioner**: Sep 2024 - Sep 2027
