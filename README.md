@@ -45,40 +45,6 @@ Hello! I'm Murali Krishna Mididoddi,Machine Learning Engineer with 3+ years of e
 
 ## Experience
 
-### Adroit IT Solutions
-
-Junior Data Scientist (June 2021 - Apr 2022)
-
-- **Designed automatic ETL pipelines for real-time fraud detection using Apache Airflow**
-- **Used ML models (Regression Models, Time-series Analysis, Random Forest) that improved F1-score by 40%**
-- **Processed 284,807 transactions, utilizing SMOTE to enhance fraud detection recall to 87%.**
-- **Built graph-based fraud analytics using Neo4J & Cypher, uncovering hidden fraud patterns**
-- **Designed interactive Power BI dashboards integrating A/B testing and ML-driven KPIs.**
-- **Reduced fraud detection latency by 30%, enabling real-time risk mitigation**
-
-### Indian Railways 
-
-Data intern ( May 2021 - Jun 2021) 
-
-- **Wrote SQL queries to analyze railway freight datasets, identifying 23% inconsistencies and improving decision-making.** 
-- **Optimized railway routes using Dijkstra's Algorithm in R, reducing route load by 30% and increasing station frequency.** 
-- **Automated data workflows using Python, reducing manual errors by 25% and saving $20K annually**
-- **Embedded Power BI dashboards, enhancing data visibility and improving decision-making by 30%**
-- **Built an end to end Data pipeline for streaming real time data using RESTful API's.**
-- **Conducted regression analysis to predict tool material and size for safety factors.** 
-
-### Adroit IT Solutions
-
-Data Analyst (MAy 2019 - Apr 2021)
-
-- **Collected, cleaned, and processed 1.2 million+ rows of raw data from various sources using SQL and Python, improving data quality 
-by 30%.**
-- **Developed 10+ automated data visualization dashboards in Power BI, increasing report generation efficiency by 40%.**
-- **Performed statistical analysis using Python and Excel to identify trends and patterns, enhancing decision-making processes for 
-stakeholders.**
-- **Collaborated with senior analysts to implement ETL pipelines, reducing data processing time by 25%**
-- **Applied data wrangling techniques to integrate data from 5+ sources, enhancing analytical capabilities**
-
 ### Techswapers | Junior Data Scientist (Aug 2022 - Jan 2023)
 
  • **Delivered 16 ML models to production using AWS SageMaker, enabling real-time inference across 5+ services and reducing 
