@@ -47,33 +47,33 @@ Hello! I'm Murali Krishna Mididoddi,Machine Learning Engineer with 3+ years of e
 
 ### Techswapers | Junior Data Scientist (Aug 2022 - Jan 2023)
 
- • **Delivered 16 ML models to production using AWS SageMaker, enabling real-time inference across 5+ services and reducing 
+ **Delivered 16 ML models to production using AWS SageMaker, enabling real-time inference across 5+ services and reducing 
 response latency by 45%.**
- • **Built a fraud detection system with Keras, cutting manual reviews by 40% and preventing $120K in annual financial losses.**
- • **Developed a churn model with XGBoost, driving a 15% increase in customer retention by identifying high-risk users.**
- • **Executed A/B tests for pricing strategies, improving user conversion by 11% and contributing to a 9% increase in revenue.**
- • **Partnered with cross-functional teams to translate business pain points into ML solutions, reducing insight delivery time by 30%.**
- • **Developed and maintained RESTful APIs using Flask and FastAPI to expose ML models and data services, ensuring scalable 
+ **Built a fraud detection system with Keras, cutting manual reviews by 40% and preventing $120K in annual financial losses.**
+ **Developed a churn model with XGBoost, driving a 15% increase in customer retention by identifying high-risk users.**
+ **Executed A/B tests for pricing strategies, improving user conversion by 11% and contributing to a 9% increase in revenue.**
+ **Partnered with cross-functional teams to translate business pain points into ML solutions, reducing insight delivery time by 30%.**
+ **Developed and maintained RESTful APIs using Flask and FastAPI to expose ML models and data services, ensuring scalable 
 integration across web-based tools and analytics dashboards.**
  ### Techswapers | Junior Data Engineer( Jan 2022 - Jul 2022)
 
- • **Orchestrated automated ETL pipelines via Airflow and DBT, cutting batch processing time from 6 hours to 45 minutes.**
- • **Tuned complex SQL queries used in executive dashboards, improving load time by 60% and enabling daily usage by 50+ 
+ **Orchestrated automated ETL pipelines via Airflow and DBT, cutting batch processing time from 6 hours to 45 minutes.**
+ **Tuned complex SQL queries used in executive dashboards, improving load time by 60% and enabling daily usage by 50+ 
 stakeholders.**
- • **Designed RESTful APIs in Flask/FastAPI to serve ML model results with 99.9% uptime and sub-second latency.**
- • **Built logging/alerting framework that reduced production issues by 30% and enabled faster root cause analysis.**
+ **Designed RESTful APIs in Flask/FastAPI to serve ML model results with 99.9% uptime and sub-second latency.**
+ **Built logging/alerting framework that reduced production issues by 30% and enabled faster root cause analysis.**
  
  ### Adroit IT Solutions | Junior Data Scientist(Jan 2020 - Dec 2021)
- • **Optimized ETL performance using PostgreSQL window functions, lowering processing costs by 20% and data delay by 3 hours.**
- • **Processed 100M+ social media records using PySpark on AWS S3, increasing data ingestion throughput by 50%.**
- • **Created 12+ interactive dashboards that cut request backlog by 80% and enabled self-service analytics.**
- • **Applied K-Means clustering to segment 250K+ users, lifting email campaign ROI by 18% and adding $60K/quarter.**
- • **Deployed CloudWatch-based alerting for ML jobs, maintaining 99.9% system availability.**
+ **Optimized ETL performance using PostgreSQL window functions, lowering processing costs by 20% and data delay by 3 hours.**
+ **Processed 100M+ social media records using PySpark on AWS S3, increasing data ingestion throughput by 50%.**
+ **Created 12+ interactive dashboards that cut request backlog by 80% and enabled self-service analytics.**
+ **Applied K-Means clustering to segment 250K+ users, lifting email campaign ROI by 18% and adding $60K/quarter.**
+ **Deployed CloudWatch-based alerting for ML jobs, maintaining 99.9% system availability.**
  
  ### Adroit IT Solutions | Data Science Intern(May 2019 - Dec 2019)
- • **Built a Python-based ETL framework that processed 2TB+ daily data, improving processing efficiency by 35%.**
- • **Automated ingestion of multi-format files (CSV, JSON, HL7) with 98% success rate using ML-driven error detection.**
- • **Integrated Kafka and RabbitMQ for scheduling dynamic quality checks, increasing system throughput by 40%.**
+ **Built a Python-based ETL framework that processed 2TB+ daily data, improving processing efficiency by 35%.**
+ **Automated ingestion of multi-format files (CSV, JSON, HL7) with 98% success rate using ML-driven error detection.**
+ **Integrated Kafka and RabbitMQ for scheduling dynamic quality checks, increasing system throughput by 40%.**
 
 ## Conferences and Workshops
 
