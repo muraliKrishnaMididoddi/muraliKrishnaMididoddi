@@ -45,7 +45,7 @@ Hello! I'm Murali Krishna Mididoddi,Machine Learning Engineer with 3+ years of e
 
 ## Experience
 
-### Techswapers | Junior Data Scientist (Aug 2022 - Jan 2023)
+### Techswaper Solutions | Junior Data Scientist (Aug 2022 - Jan 2023)
 
  - **Delivered 16 ML models to production using AWS SageMaker, enabling real-time inference across 5+ services and reducing 
 response latency by 45%.**
