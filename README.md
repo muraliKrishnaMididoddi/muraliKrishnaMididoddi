@@ -45,13 +45,11 @@ Hello! I'm Murali Krishna Mididoddi,Machine Learning Engineer with 3+ years of e
 
 ## Experience
 
-### Techswaper Solutions | Data Scientist (Jan 2022 - Dec 2024)
+### Techswaper Solutions | Data Scientist ( May 2024 - Jan 2025)
 
  
- ### Standalone IT solutions|  Data Scientist/ Data Analyst(  Jan 2020 - Dec 2021)
-
+ ### Adroit IT Solutions |  Digital Data Analyst(May 2019 - Jan 2020)  |  Digital Product Analyst  (Jun 2021 - Dec 2021)
  
- ### Adroit IT Solutions |  Python developer(May 2019 - Jan 2020)
  
 
 ## Conferences and Workshops
