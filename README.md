@@ -211,7 +211,7 @@ Thank you for visiting my portfolio. I'm eager to bring my skills and enthusiasm
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/murali-krishna-mididoddi/">
+  <a href="https://www.linkedin.com/in/murali-krishna-data-scientist/">
     <img src="https://img.shields.io/badge/LinkedIn-Murali%20Krishna-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="mailto:mididoddimuralikrishna@gmail.com">
