@@ -189,7 +189,6 @@ Thank you for visiting my portfolio. I'm eager to bring my skills and enthusiasm
 -->
 
 
-#Second edit
 <h1 align="center">Murali Krishna | Data Engineer</h1>
 
 <p align="center">
