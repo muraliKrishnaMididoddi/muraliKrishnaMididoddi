@@ -188,7 +188,7 @@ Feel free to reach out to me via the following channels:
 Thank you for visiting my portfolio. I'm eager to bring my skills and enthusiasm to a dynamic team and contribute to impactful data-driven projects. Please don't hesitate to contact me if you have any questions or opportunities!
 -->
 
-<!--
+
 #Second edit
 <h1 align="center">Murali Krishna | Data Engineer</h1>
 
@@ -308,24 +308,54 @@ I am especially interested in roles involving:
 
 ## Experience
 
-### Techswaper Solutions | Data Scientist (May 2024 - Jan 2025)
+### Sr. Data & Analytics Engineer | Rollins Inc — Marietta, GA (Aug 2025 – Present)
 
-- Designed and developed scalable data workflows for analytics and model-driven use cases
-- Built data preparation and transformation pipelines to support reporting and predictive analysis
-- Worked with Python, SQL, and analytics tooling to process and analyze business datasets
-- Supported ML and analytics initiatives by improving dataset quality, usability, and performance
+- Designed and implemented enterprise-scale Azure data architectures supporting marketing analytics platforms  
+- Developed scalable PySpark pipelines on Azure Databricks processing large volumes of campaign and customer data  
+- Built ingestion and transformation workflows using Azure Data Factory for centralized data processing  
+- Implemented ADLS Gen2 data lake architecture using Parquet for optimized analytics performance  
+- Migrated on-prem SQL Server data into Azure Data Lake and Synapse improving accessibility and performance  
+- Designed and optimized Synapse SQL pools and Snowflake warehouses for reporting datasets  
+- Orchestrated pipelines using ADF triggers ensuring timely delivery of insights  
+- Implemented data validation frameworks ensuring high data quality  
+- Enabled analytics using Power BI and Alteryx dashboards  
+- Applied 3NF and dimensional modeling for analytics-ready datasets  
 
-### Adroit IT Solutions | Digital Data Analyst (May 2019 - Jan 2020)
+**Technologies:** Azure, Databricks, Spark, Snowflake, Python, SQL, Power BI, Alteryx  
 
-- Analyzed business and operational datasets to generate insights for reporting and decision-making
-- Built dashboards and reports to monitor trends, KPIs, and performance metrics
-- Performed SQL-based data extraction, cleansing, and transformation for analytics use cases
+---
 
-### Adroit IT Solutions | Digital Product Analyst (Jun 2021 - Dec 2021)
+### Data Engineer | Wells Fargo — San Francisco, CA (Jul 2021 – Dec 2022)
 
-- Worked with product and business data to identify user behavior trends and performance insights
-- Supported analytics and reporting processes through structured data analysis and dashboarding
-- Collaborated with cross-functional stakeholders to improve product visibility through data
+- Developed Spark-based ETL pipelines for financial and customer data  
+- Built batch and incremental pipelines using Azure Data Factory  
+- Designed data models using 3NF and dimensional modeling  
+- Integrated on-prem SQL Server data into Azure Data Lake  
+- Optimized Spark jobs improving performance  
+- Performed data validation and transformation using SQL and Python  
+- Built datasets supporting Power BI and analytics tools  
+- Implemented data security and masking  
+- Developed transformation logic ensuring data lineage  
+- Collaborated with business teams on analytics requirements  
+
+**Technologies:** Azure, Snowflake, Hadoop, Spark, Python, SQL, dbt  
+
+---
+
+### Data Engineer | Aetna Insurance — Hartford, CT (Dec 2019 – Jun 2021)
+
+- Built AWS-based healthcare data pipelines for claims analytics  
+- Developed ETL workflows using AWS Glue  
+- Implemented S3 data lake architectures  
+- Built SQL transformations for reporting  
+- Implemented incremental data ingestion strategies  
+- Enabled analytics using AWS Athena  
+- Applied security and compliance (HIPAA)  
+- Automated CI/CD using Jenkins and GitHub  
+- Supported Hadoop-based processing  
+- Performed data validation and profiling  
+
+**Technologies:** AWS, Glue, S3, Athena, SQL, Hadoop  
 
 ---
 
@@ -490,209 +520,4 @@ If my profile matches your hiring needs, feel free to connect with me.
 ## Acknowledgements
 
 Thank you for visiting my GitHub profile. I’m passionate about building impactful data solutions and continuously improving my skills in cloud data engineering, analytics, and scalable processing systems.
--->
-<h1 align="center">Murali Krishna | Data Engineer</h1>
 
-<p align="center">
-Building Scalable Data Platforms | Azure • AWS • Spark • Databricks  
-</p>
-
-<p align="center">
-<a href="https://www.linkedin.com/in/murali-krishna-mididoddi/">LinkedIn</a> • 
-<a href="mailto:mididoddimuralikrishna@gmail.com">Email</a> • 
-<a href="https://github.com/muraliKrishnaMididoddi">GitHub</a>
-</p>
-
----
-
-## About Me
-
-Hello! I'm Murali Krishna Mididoddi, a **Data Engineer with 5+ years of experience** specializing in building scalable data platforms across healthcare, banking, and enterprise analytics domains.
-
-I focus on designing **end-to-end data pipelines, data lakehouse architectures, and high-performance analytics systems** using Azure, AWS, Databricks, and Apache Spark.  
-
-I have hands-on experience processing **large-scale structured and streaming datasets**, optimizing data pipelines, and enabling real-time and batch analytics for business-critical decision-making.
-
-💡 Key Highlights:
-- Built scalable **data lake and lakehouse architectures** using ADLS Gen2 and AWS S3  
-- Developed high-performance **PySpark pipelines processing millions of records**  
-- Optimized data workflows improving performance by **30–40%**  
-- Experience in **data modeling, ETL design, and pipeline orchestration**  
-- Strong focus on **data quality, performance tuning, and cost optimization**  
-
----
-
-## Core Competencies
-
-- Data Engineering & ETL Pipeline Development  
-- Data Lakehouse Architecture (Azure & AWS)  
-- Distributed Data Processing (Spark, PySpark)  
-- Real-Time & Batch Data Processing  
-- Data Modeling & Warehousing  
-- Performance Optimization & Cost Optimization  
-- Data Governance & Security  
-
----
-
-## Skills
-
-### Programming & Query Languages
-- Python, SQL, PL/SQL, Java  
-
-### Big Data & Processing
-- Apache Spark, PySpark, Hadoop, Hive, Databricks  
-- Delta Lake, Apache Iceberg  
-
-### Cloud Platforms
-- Azure (ADF, ADLS Gen2, Synapse Analytics)  
-- AWS (S3, Glue, Athena, Redshift, Lambda)  
-
-### Data Warehousing
-- Snowflake, Azure Synapse, Amazon Redshift  
-
-### Streaming & Orchestration
-- Apache Kafka, Spark Streaming  
-- Apache Airflow, Azure Data Factory  
-
-### DevOps & Tools
-- Docker, Kubernetes, Jenkins, GitHub Actions  
-
-### Data Modeling & BI
-- Erwin, Dimensional Modeling (Star/Snowflake)  
-- Tableau, Power BI  
-
----
-
-## Experience
-
-### Sr. Data & Analytics Engineer | Rollins Inc — Marietta, GA (Aug 2025 – Present)
-
-- Designed and implemented enterprise-scale Azure data architectures supporting marketing analytics platforms  
-- Developed scalable PySpark pipelines on Azure Databricks processing large volumes of campaign and customer data  
-- Built ingestion and transformation workflows using Azure Data Factory for centralized data processing  
-- Implemented ADLS Gen2 data lake architecture using Parquet for optimized analytics performance  
-- Migrated on-prem SQL Server data into Azure Data Lake and Synapse improving accessibility and performance  
-- Designed and optimized Synapse SQL pools and Snowflake warehouses for reporting datasets  
-- Orchestrated pipelines using ADF triggers ensuring timely delivery of insights  
-- Implemented data validation frameworks ensuring high data quality  
-- Enabled analytics using Power BI and Alteryx dashboards  
-- Applied 3NF and dimensional modeling for analytics-ready datasets  
-
-**Technologies:** Azure, Databricks, Spark, Snowflake, Python, SQL, Power BI, Alteryx  
-
----
-
-### Data Engineer | Wells Fargo — San Francisco, CA (Jul 2021 – Dec 2022)
-
-- Developed Spark-based ETL pipelines for financial and customer data  
-- Built batch and incremental pipelines using Azure Data Factory  
-- Designed data models using 3NF and dimensional modeling  
-- Integrated on-prem SQL Server data into Azure Data Lake  
-- Optimized Spark jobs improving performance  
-- Performed data validation and transformation using SQL and Python  
-- Built datasets supporting Power BI and analytics tools  
-- Implemented data security and masking  
-- Developed transformation logic ensuring data lineage  
-- Collaborated with business teams on analytics requirements  
-
-**Technologies:** Azure, Snowflake, Hadoop, Spark, Python, SQL, dbt  
-
----
-
-### Data Engineer | Aetna Insurance — Hartford, CT (Dec 2019 – Jun 2021)
-
-- Built AWS-based healthcare data pipelines for claims analytics  
-- Developed ETL workflows using AWS Glue  
-- Implemented S3 data lake architectures  
-- Built SQL transformations for reporting  
-- Implemented incremental data ingestion strategies  
-- Enabled analytics using AWS Athena  
-- Applied security and compliance (HIPAA)  
-- Automated CI/CD using Jenkins and GitHub  
-- Supported Hadoop-based processing  
-- Performed data validation and profiling  
-
-**Technologies:** AWS, Glue, S3, Athena, SQL, Hadoop  
-
----
-
-## Conferences and Workshops
-
-### International Conference on Machine Learning (ICML)  
-Attended ICML 2024  
-
-- Attended sessions on advanced ML techniques  
-- Participated in hands-on tutorials  
-- Engaged with AI researchers and professionals  
-
----
-
-## Projects
-
-### [Project 1 : Patient re-admission_Predictive_Analytics](https://github.com/muraliKrishnaMididoddi/PortfolioProjects/blob/main/Patient%20re-admission_Predictive_Analytics.ipynb)
-- The project predicts patient readmissions using ML  
-- Achieved 20% reduction in readmissions  
-
-### [Project 2 : Landing page optimization using A/B Testing](https://github.com/muraliKrishnaMididoddi/PortfolioProjects/blob/main/ABTesting.ipynb)
-- Improved conversion rates by 15% using A/B testing  
-
-### [Project 3 : Twitter-Sentiment-Analysis](https://github.com/muraliKrishnaMididoddi/PortfolioProjects/blob/main/Twitter%20Sentiment%20Analysis.ipynb))
-- Processed 500K+ tweets with 98% efficiency  
-- Reduced processing time by 40%  
-
-### [Project 4 : Movie Portfolio Project](https://github.com/muraliKrishnaMididoddi/PortfolioProjects/blob/main/Movie%20Portfolio%20Project.ipynb)
-- Built recommendation system with 95% accuracy  
-
-### [Project 5 : Clustering wine dataset](https://github.com/muraliKrishnaMididoddi/PortfolioProjects/blob/main/Clustering%20wine%20dataset%20with%20k-means%20and%20DBSCAN.ipynb)
-- Improved clustering accuracy by 15%  
-
-### [Project 6 : SQL Data Cleaning](https://github.com/muraliKrishnaMididoddi/PortfolioProjects/blob/main/SQL%20DATA%20CLEANING.sql)
-- Reduced data duplication by 30%  
-
-### [Project 7 : House Pricing ML](https://github.com/muraliKrishnaMididoddi/PortfolioProjects/blob/main/House%20Pricing%20with%20KNN%20and%20XGBoost.ipynb)
-- Improved prediction accuracy by 15%  
-
-### [Project 8 : Tableau Sales Analysis](https://github.com/muraliKrishnaMididoddi/PortfolioProjects/blob/main/tableau%20analysis%201.twbx)
-- Increased revenue insights by 10%  
-
-### [Project 9 : Student Management System](https://github.com/muraliKrishnaMididoddi/studentmngt/blob/main/student-management-system-springboot%20(1).zip)
-- Improved efficiency by 40%  
-
-### [Project 10 : Credit Card Fraud Detection](https://github.com/muraliKrishnaMididoddi/PortfolioProjects/blob/main/Credit%20Card%20Fraud%20Detection%20-%20Decision%20Tree.ipynb)
-- Achieved 99.3% accuracy  
-
-### [Project 11 : Recommendation Engine](https://github.com/muraliKrishnaMididoddi/collaborative-filtering-recommendation-engine)
-- Processed 2M interactions using Spark  
-
----
-
-## Education
-
-Masters in Big Data Analytics and IT  
-University of Central Missouri  
-
-Bachelor of Technology  
-JNTUK  
-
----
-
-## Certifications
-
-- AWS Machine Learning Specialty  
-- Microsoft Power BI Analyst  
-- AWS Cloud Practitioner  
-- HackerRank SQL  
-
----
-
-## Contact
-
-- Email: mididoddimuralikrishna@gmail.com  
-- LinkedIn: https://linkedin.com/in/murali-krishna-mididoddi  
-- GitHub: https://github.com/muraliKrishnaMididoddi  
-
----
-
-## Acknowledgements
-
-Actively seeking Data Engineer opportunities | Open to C2C, C2H, Full-Time roles
