@@ -511,7 +511,7 @@ If my profile matches your hiring needs, feel free to connect with me.
 ## Contact
 
 - **Email**: [mididoddimuralikrishna@gmail.com](mailto:mididoddimuralikrishna@gmail.com)
-- **LinkedIn**: [linkedin.com/in/murali-krishna-mididoddi/](https://www.linkedin.com/in/murali-krishna-data-scientist/)
+- **LinkedIn**: [linkedin.com/in/murali-krishna-data-scientist/](https://www.linkedin.com/in/murali-krishna-data-scientist/)
 - **GitHub**: [github.com/muraliKrishnaMididoddi](https://github.com/muraliKrishnaMididoddi)
 
 ---
