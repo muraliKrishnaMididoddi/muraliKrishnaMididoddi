@@ -521,6 +521,8 @@ If my profile matches your hiring needs, feel free to connect with me.
 Thank you for visiting my GitHub profile. I’m passionate about building impactful data solutions and continuously improving my skills in cloud data engineering, analytics, and scalable processing systems.
 
 -->
+<!--
+---------------------------------------Version -3 --------------------------------------------------------
 <h1 align="center">Murali Krishna Mididoddi | Sr. Data & Platform Engineer</h1>
 
 <p align="center">
@@ -866,4 +868,347 @@ If my profile matches your hiring needs, feel free to connect!
 ---
 
 Thank you for visiting my GitHub profile. I'm passionate about building secure, scalable data and platform solutions — and always open to exciting new opportunities!
+-->
 
+<h1 align="center">Murali Krishna Mididoddi | Data & AI Engineer</h1>
+
+<p align="center">
+  <b>Azure • AWS • Databricks • Spark • PySpark • SQL • ML • GenAI</b>
+</p>
+
+<p align="center">
+  Building scalable data pipelines, lakehouse architectures, ML-powered analytics, and AI-driven platforms across healthcare, financial services, and enterprise domains.
+</p>
+
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=muraliKrishnaMididoddi&label=Profile%20Views&color=33c2cc&style=flat">
+    <img src="https://komarev.com/ghpvc/?username=muraliKrishnaMididoddi&label=Profile%20Views&color=33c2cc&style=flat" alt="profile views" />
+  </a>
+  <a href="https://github.com/muraliKrishnaMididoddi?tab=followers">
+    <img src="https://img.shields.io/github/followers/muraliKrishnaMididoddi?label=Followers&style=flat&color=33c2cc" alt="followers" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/murali-krishna-data-scientist/">
+    <img src="https://img.shields.io/badge/LinkedIn-Murali%20Krishna-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:munnummk499@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail" alt="Email" />
+  </a>
+  <a href="https://github.com/muraliKrishnaMididoddi">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+  <a href="https://muralikrishnamididoddi.github.io/Murali_portfolio.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-5c33cc?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
+
+---
+
+## About Me
+
+Hello! I'm **Murali Krishna Mididoddi**, a **Data & AI Engineer** with 3+ years of experience building **scalable data pipelines**, **ML-powered analytics platforms**, and **AI-driven solutions** across healthcare, financial services, and enterprise domains.
+
+I specialize in end-to-end data engineering — from ingestion and transformation to warehousing, reporting, and machine learning integration — turning raw data into reliable, actionable intelligence.
+
+```python
+murali = {
+    "role":        "Data & AI Engineer",
+    "location":    "Boston, MA 🇺🇸",
+    "open_to":     ["Data Engineer", "AI Engineer", "Analytics Engineer",
+                    "ML Engineer", "Cloud Data Engineer", "ETL Developer"],
+    "experience":  "3+ years",
+    "education":   "MS Big Data Analytics & IT — University of Central Missouri (GPA 3.70)",
+    "focus":       ["Data Pipelines", "Lakehouse Architecture", "ML Models",
+                    "GenAI / LLMs", "Real-time Analytics", "Cloud Platforms"],
+    "contact":     "munnummk499@gmail.com"
+}
+```
+
+---
+
+## Recruiter Snapshot
+
+- **3+ years** of experience in Data Engineering, Analytics, and AI/ML
+- Hands-on with **Azure** (ADF, ADLS Gen2, Synapse, Databricks) and **AWS** (S3, Glue, Athena, Redshift)
+- Strong in **Python, SQL, Spark, PySpark, Databricks, Snowflake**
+- Experience building **ETL/ELT pipelines**, **data lakes**, and **lakehouse architectures**
+- Applied **ML and NLP** for healthcare analytics, fraud detection, and recommendation systems
+- Explored **GenAI / LLM** integration for analytics and insight generation
+- Experience across **healthcare, financial services, and enterprise analytics**
+- Open to **Data Engineer, AI Engineer, Analytics Engineer, and Cloud Data roles**
+
+---
+
+## Tech Stack
+
+### 🤖 AI & Machine Learning
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-Transformers-yellow?style=flat-square&logo=huggingface&logoColor=white)
+![MLlib](https://img.shields.io/badge/Spark_MLlib-E25A1C?style=flat-square&logo=apache-spark&logoColor=white)
+
+### 📊 Data Engineering & Big Data
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-56B9EB?style=flat-square&logo=snowflake&logoColor=white)
+![Delta Lake](https://img.shields.io/badge/Delta%20Lake-003366?style=flat-square)
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black)
+![Hive](https://img.shields.io/badge/Hive-FDEE21?style=flat-square&logo=apachehive&logoColor=black)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
+
+### ☁️ Cloud Platforms
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![ADF](https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=flat-square)
+![ADLS Gen2](https://img.shields.io/badge/ADLS%20Gen2-0078D4?style=flat-square)
+![Synapse](https://img.shields.io/badge/Synapse%20Analytics-0078D4?style=flat-square)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![AWS Glue](https://img.shields.io/badge/AWS%20Glue-232F3E?style=flat-square)
+![Athena](https://img.shields.io/badge/AWS%20Athena-232F3E?style=flat-square)
+![Redshift](https://img.shields.io/badge/Amazon%20Redshift-8C4FFF?style=flat-square)
+
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![PLSQL](https://img.shields.io/badge/PLSQL-F80000?style=flat-square&logo=oracle&logoColor=white)
+
+### 🔧 Orchestration & DevOps
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+### 📈 BI & Visualization
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+
+---
+
+## Core Competencies
+
+- **Data Pipeline Development** — ETL/ELT, batch & streaming, end-to-end automation
+- **Lakehouse Architecture** — Delta Lake, ADLS Gen2, S3, Databricks
+- **Machine Learning & AI** — Predictive models, NLP, recommendation systems, fraud detection
+- **GenAI / LLM Integration** — Applied AI for analytics and data-driven insights
+- **Cloud Data Platforms** — Azure & AWS data services at scale
+- **Data Modeling** — 3NF, dimensional modeling, star/snowflake schemas
+- **Data Quality & Governance** — Validation frameworks, lineage, HIPAA compliance
+- **Analytics & Reporting** — Power BI, Tableau, self-serve analytics enablement
+
+---
+
+## Experience
+
+### 🟢 CRM Analyst | Delaware North — TD Garden — Boston, MA (May 2026 – Present)
+
+- Led implementation of enterprise data workflows for CRM analytics and reporting
+- Built data pipelines integrating customer and event data for business intelligence
+- Developed dashboards and reporting solutions supporting revenue and engagement analytics
+- Automated data workflows improving operational efficiency across analytics teams
+
+**Technologies:** Python, SQL, Azure, Power BI, CRM Analytics
+
+---
+
+### Sr. Data & Analytics Engineer | Rollins Inc — Marietta, GA (Aug 2025 – Mar 2026)
+
+- Designed enterprise-scale Azure data architectures supporting marketing analytics platforms
+- Developed scalable PySpark pipelines on Databricks processing large campaign and customer datasets
+- Built ingestion and transformation workflows using Azure Data Factory for centralized data processing
+- Implemented ADLS Gen2 data lake with Delta Lake and Parquet for optimized analytics performance
+- Designed and optimized Synapse SQL pools and Snowflake warehouses for reporting datasets
+- Implemented data validation frameworks ensuring high data quality across all pipelines
+- Enabled self-serve analytics using Power BI and Alteryx dashboards
+- Applied 3NF and dimensional modeling for analytics-ready datasets
+
+**Technologies:** Azure, Databricks, Spark, Snowflake, ADF, ADLS Gen2, Python, SQL, Power BI, Alteryx
+
+---
+
+### Data Engineer | Federal Home Loan Bank — Atlanta, GA (Feb 2025 – Aug 2025)
+
+- Developed and optimized data pipelines for financial data processing and reporting
+- Implemented data security controls and compliance frameworks for sensitive financial data
+- Built data models supporting regulatory reporting and business analytics
+- Automated data ingestion and transformation workflows reducing manual processing time
+- Collaborated with analytics teams to enable data-driven decision making
+
+**Technologies:** Python, SQL, Cloud Data Platforms, Data Modeling, Agile, JIRA
+
+---
+
+### Data Engineer | Aetna Insurance — Hartford, CT (Mar 2021 – Dec 2022)
+
+- Built AWS-based healthcare data pipelines for claims analytics and reporting
+- Developed ETL workflows using AWS Glue for data ingestion and transformation
+- Implemented S3 data lake architectures for scalable healthcare data storage
+- Built SQL transformations for regulatory reporting and clinical analytics
+- Applied HIPAA compliance and data security standards throughout all pipelines
+- Automated CI/CD using Jenkins and GitHub for pipeline deployment
+- Performed data validation and profiling ensuring high data quality standards
+
+**Technologies:** AWS, Glue, S3, Athena, SQL, Hadoop, Python, Jenkins
+
+---
+
+## Conferences & Workshops
+
+### International Conference on Machine Learning (ICML) — Jul 2024
+
+- Attended workshops on deep learning, reinforcement learning, and state-of-the-art ML techniques
+- Participated in hands-on tutorials with TensorFlow and PyTorch for model optimization
+- Engaged with leading AI researchers exploring collaboration in large-scale ML and data integration
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=muraliKrishnaMididoddi&show_icons=true&hide_border=true&bg_color=030412&title_color=33c2cc&icon_color=7a57db&text_color=ffffff" alt="Murali GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muraliKrishnaMididoddi&layout=compact&hide_border=true&bg_color=030412&title_color=33c2cc&text_color=ffffff" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=muraliKrishnaMididoddi&hide_border=true&background=030412&stroke=33c2cc&ring=7a57db&fire=ea4884&currStreakLabel=33c2cc" alt="GitHub Streak" />
+</p>
+
+---
+
+## Projects
+
+### [01 · Patient Re-admission Predictive Analytics](https://github.com/muraliKrishnaMididoddi/PortfolioProjects/blob/main/Patient%20re-admission_Predictive_Analytics.ipynb)
+- Predicted patient readmissions using ML — achieved **20% reduction** in readmission rates
+- Applied data preprocessing, feature engineering, and predictive modeling on clinical datasets
+- **Tech:** Python, Scikit-Learn, Pandas, Healthcare Analytics
+
+### [02 · Landing Page Optimization via A/B Testing](https://github.com/muraliKrishnaMididoddi/PortfolioProjects/blob/main/ABTesting.ipynb)
+- **15% increase in conversion rates** and **10% reduction in bounce rates** through data-driven testing
+- Built statistical hypothesis testing framework for digital marketing optimization
+- **Tech:** Python, Scipy, Seaborn, NumPy, Statistical Analysis
+
+### [03 · Twitter Sentiment Analysis](https://github.com/muraliKrishnaMididoddi/PortfolioProjects/blob/main/Twitter%20Sentiment%20Analysis.ipynb)
+- Processed **500K+ tweets** with **98% efficiency** using NLP and transformer models
+- Reduced analysis time by **40%** enabling real-time sentiment tracking
+- **Tech:** Python, NLP, Transformers, Pandas
+
+### [04 · Movie Recommendation System](https://github.com/muraliKrishnaMididoddi/PortfolioProjects/blob/main/Movie%20Portfolio%20Project.ipynb)
+- **95% accuracy** in movie recommendations using collaborative filtering
+- **70% improved search speed** with optimized database queries
+- **Tech:** Python, Scikit-Learn, Matplotlib, NumPy, Pandas
+
+### [05 · Clustering Wine Dataset — K-Means & DBSCAN](https://github.com/muraliKrishnaMididoddi/PortfolioProjects/blob/main/Clustering%20wine%20dataset%20with%20k-means%20and%20DBSCAN.ipynb)
+- Classified **1,000+ wine samples** achieving **15% higher cluster accuracy**
+- Used K-Means for segmentation and DBSCAN for outlier detection
+- **Tech:** Python, K-Means, DBSCAN, Matplotlib
+
+### [06 · SQL Data Cleaning](https://github.com/muraliKrishnaMididoddi/PortfolioProjects/blob/main/SQL%20DATA%20CLEANING.sql)
+- **Reduced data duplication by 30%** through structured SQL cleaning processes
+- Standardized raw datasets for enhanced integrity and downstream usability
+- **Tech:** SQL, Data Quality, ETL
+
+### [07 · House Pricing — KNN & XGBoost](https://github.com/muraliKrishnaMididoddi/PortfolioProjects/blob/main/House%20Pricing%20with%20KNN%20and%20XGBoost.ipynb)
+- **15% accuracy improvement** analyzing **50K+ rows** of housing data
+- Pipeline handles **1M+ rows** with **30% reduced runtime**
+- **Tech:** Python, KNN, XGBoost, Feature Engineering
+
+### [08 · Tableau Sales Analysis](https://github.com/muraliKrishnaMididoddi/PortfolioProjects/blob/main/tableau%20analysis%201.twbx)
+- Interactive dashboards identifying sales trends — resulted in **10% revenue increase**
+- **Tech:** Tableau, BI, Sales Analytics
+
+### [09 · Student Management System](https://github.com/muraliKrishnaMididoddi/studentmngt)
+- Full-stack Spring Boot app — **25% improved data accuracy**, **40% reduced processing time**
+- **Tech:** Java, Spring Boot, HTML, SQL
+
+### [10 · Credit Card Fraud Detection](https://github.com/muraliKrishnaMididoddi/PortfolioProjects/blob/main/Credit%20Card%20Fraud%20Detection%20-%20Decision%20Tree.ipynb)
+- **99.3% accuracy** on 284K transactions using Decision Tree + SMOTE
+- **30% reduced fraud detection latency** enabling real-time screening
+- **Tech:** Python, Decision Tree, SMOTE, Pandas
+
+### [11 · Collaborative Filtering Recommendation Engine](https://github.com/muraliKrishnaMididoddi/collaborative-filtering-recommendation-engine)
+- ALS-based Spark MLlib engine processing **2M+ user-item interactions**
+- Generated **top-10 recommendations for 2M+ users** with **0.87 RMSE**
+- **Tech:** PySpark, Apache Spark, MLlib, ALS, Collaborative Filtering
+
+---
+
+## Education
+
+### Masters in Big Data Analytics and IT
+**University of Central Missouri** — Warrensburg, United States
+Graduated: Dec 2024 | **GPA: 3.70**
+Coursework: Big Data Analytics, Data Mining, Statistical Methods, Machine Learning, Database Management, Business Intelligence, Tableau
+
+### Bachelor of Technology in Electronics and Communications Engineering
+**JNTUK** — Kakinada, India | Graduated: May 2022
+
+---
+
+## Certifications
+
+| Certification | Valid |
+|---|---|
+| 🏆 AWS Certified Machine Learning: Specialty | Feb 2025 – Feb 2028 |
+| ☁️ AWS Certified Cloud Practitioner | Sep 2024 – Sep 2027 |
+| 📊 Microsoft Power BI Analyst Associate | Sep 2024 – Sep 2025 |
+| 🗄️ HackerRank SQL Certificate | Jul 2024 |
+| 📐 Google: Foundations — Data, Data, Everywhere | May 2024 |
+| 📐 Google: Ask Questions to Make Data-Driven Decisions | May 2024 |
+| 📐 Google: Prepare Data for Exploration | Jun 2024 |
+| 🌐 VMware IT Academy Network Virtualization | Jan 2021 |
+
+---
+
+## Publications
+
+**A Statistical Survey of Energy Efficient WSN Protocols in Communication Networks — Part 1**, MAT Journals
+
+---
+
+## Open to Opportunities
+
+I'm actively exploring opportunities in:
+
+- 🔹 Data Engineer
+- 🔹 AI / ML Engineer
+- 🔹 Analytics Engineer
+- 🔹 Cloud Data Engineer
+- 🔹 ETL Developer
+- 🔹 Big Data Engineer
+
+Especially interested in roles involving:
+
+- Azure Data Factory, ADLS Gen2, Synapse, Databricks
+- AWS S3, Glue, Athena, Redshift
+- Spark, PySpark, SQL, Data Warehousing
+- Machine Learning, NLP, GenAI / LLM integration
+- End-to-end Data Pipeline Development
+
+If my profile matches your hiring needs, feel free to connect!
+
+---
+
+## Contact
+
+| | |
+|---|---|
+| 📧 **Email** | [munnummk499@gmail.com](mailto:munnummk499@gmail.com) |
+| 📞 **Phone** | (470) 722-4770 |
+| 💼 **LinkedIn** | [linkedin.com/in/murali-krishna-data-scientist](https://www.linkedin.com/in/murali-krishna-data-scientist/) |
+| 🐙 **GitHub** | [github.com/muraliKrishnaMididoddi](https://github.com/muraliKrishnaMididoddi) |
+| 🌐 **Portfolio** | [muralikrishnamididoddi.github.io/Murali_portfolio.github.io](https://muralikrishnamididoddi.github.io/Murali_portfolio.github.io/) |
+
+---
+
+<div align="center">
+  <sub>⭐ Thank you for visiting! Open to exciting opportunities in Data Engineering, AI/ML, and Cloud Analytics.</sub>
+</div>
