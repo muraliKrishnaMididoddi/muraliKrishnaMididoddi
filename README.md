@@ -872,7 +872,7 @@ Thank you for visiting my GitHub profile. I'm passionate about building secure, 
 
 <h1 align="center">Murali Krishna Mididoddi | Data & AI Engineer</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=1A6B6B&center=true&vCenter=true&width=600&lines=Hi+I'm+Murali+Krishna+%F0%9F%91%8B;Data+%26+AI+Engineer;Azure+%7C+AWS+%7C+Databricks+%7C+Spark;Building+Pipelines+That+Think;Open+To+Opportunities!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=1A6B6B&center=true&vCenter=true&width=600&lines=Hi+I'm+Murali+Krishna+%F0%9F%91%8B;Data+%26+AI+Engineer;Azure+%7C+AWS+%7C+Databricks+%7C+Spark;LLM+Infrastructure+%7C+Kafka+%7C+Redis;Building+Pipelines+That+Think;Open+To+Opportunities!" alt="Typing SVG" />
 </p>
 
 
@@ -907,6 +907,43 @@ Thank you for visiting my GitHub profile. I'm passionate about building secure, 
     <img src="https://img.shields.io/badge/Portfolio-Visit-5c33cc?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </p>
+
+---
+## 🚦 Featured Open Source Project
+
+### [LLM Rate-Limit Backpressure Engine](https://github.com/muraliKrishnaMididoddi/llm-backpressure-engine)
+
+> Solving the 8.4 million monthly LLM rate-limit failure problem — production-grade, open source.
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/)
+[![Kafka](https://img.shields.io/badge/Kafka-powered-231F20?logo=apachekafka)](https://kafka.apache.org/)
+[![Redis](https://img.shields.io/badge/Redis-rate--limiting-DC382D?logo=redis)](https://redis.io/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-gateway-009688?logo=fastapi)](https://fastapi.tiangolo.com/)
+
+In March 2026, 60% of LLM API errors were rate-limit failures — **8.4 million failed calls in a single month**. This engine fixes that at the infrastructure level.
+
+Your App → FastAPI Gateway → Kafka Queue → Rate-Limit Worker → LLM API
+↑                ↓
+Redis (token       Prometheus
+buckets/tenant)    + Grafana
+**What it does:**
+- ⚡ Per-tenant token bucket rate limiting via Redis Lua scripts (atomic, no race conditions)
+- 🎯 Priority queuing — high-SLA requests always drain before batch jobs
+- 🔄 Exponential backoff + jitter — eliminates thundering herd on 429s
+- 📊 Grafana dashboards auto-provisioned — queue depth, token spend, 429 rate, p99 latency
+- 🐳 One-command Docker setup — full stack in under 5 minutes
+
+**Stack:** `Kafka` · `Python` · `Redis` · `FastAPI` · `Prometheus` · `Grafana` · `Docker`
+
+```bash
+git clone https://github.com/muraliKrishnaMididoddi/llm-backpressure-engine.git
+cd llm-backpressure-engine
+cp .env.example .env
+docker compose up -d
+```
+
+⭐ [Star it on GitHub](https://github.com/muraliKrishnaMididoddi/llm-backpressure-engine)
 
 ---
 
@@ -961,7 +998,12 @@ murali = {
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![NLP](https://img.shields.io/badge/NLP-Transformers-yellow?style=flat-square&logo=huggingface&logoColor=white)
 ![MLlib](https://img.shields.io/badge/Spark_MLlib-E25A1C?style=flat-square&logo=apache-spark&logoColor=white)
-
+### 🚦 LLM Infrastructure
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 ### 📊 Data Engineering & Big Data
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
@@ -1116,6 +1158,10 @@ murali = {
 ---
 
 ## Projects
+### [00 · 🚦 LLM Rate-Limit Backpressure Engine](https://github.com/muraliKrishnaMididoddi/llm-backpressure-engine) ⭐ Featured Open Source
+- **Solved the 8.4M monthly LLM rate-limit failure problem** with a production-grade Kafka-based backpressure engine
+- Per-tenant Redis token bucket, priority queuing, exponential backoff, Grafana dashboards — full stack in one Docker command
+- **Tech:** Kafka · Python · Redis · FastAPI · Prometheus · Grafana · Docker
 
 ### [01 · Patient Re-admission Predictive Analytics](https://github.com/muraliKrishnaMididoddi/PortfolioProjects/blob/main/Patient%20re-admission_Predictive_Analytics.ipynb)
 - Predicted patient readmissions using ML — achieved **20% reduction** in readmission rates
@@ -1214,6 +1260,7 @@ I'm actively exploring opportunities in:
 - 🔹 Analytics Engineer
 - 🔹 Cloud Data Engineer
 - 🔹 ETL Developer
+- 🔹 LLM Infrastructure Engineer
 - 🔹 Big Data Engineer
 
 Especially interested in roles involving:
