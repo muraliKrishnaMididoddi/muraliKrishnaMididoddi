@@ -1221,6 +1221,13 @@ Especially interested in roles involving:
 If my profile matches your hiring needs, feel free to connect!
 
 ---
+## Quote of the Day
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</p>
+
+---
 
 ## Contact
 
