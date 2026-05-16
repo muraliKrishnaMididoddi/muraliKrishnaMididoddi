@@ -871,7 +871,7 @@ Thank you for visiting my GitHub profile. I'm passionate about building secure, 
 -->
 
 <h1 align="center">Murali Krishna Mididoddi | Data & AI Engineer</h1>
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FmuraliKrishnaMididoddi&count_bg=%231a6b6b&title_bg=%230e0c0a&icon=eye&icon_color=%23FFFFFF&title=Profile+Views&edge_flat=false)
+
 
 <p align="center">
   <b>Azure • AWS • Databricks • Spark • PySpark • SQL • ML • GenAI</b>
