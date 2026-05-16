@@ -946,6 +946,11 @@ murali = {
 ---
 
 ## Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,azure,aws,docker,kubernetes,github,postgresql,java,tensorflow,pytorch&perline=5" />
+</p>
+
+<br/>
 
 ### 🤖 AI & Machine Learning
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
