@@ -1071,6 +1071,13 @@ murali = {
 - Engaged with leading AI researchers exploring collaboration in large-scale ML and data integration
 
 ---
+## Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muraliKrishnaMididoddi&theme=react-dark&hide_border=true&color=1a6b6b&line=1a6b6b&point=ffffff" />
+</p>
+
+---
 
 ## GitHub Stats
 
