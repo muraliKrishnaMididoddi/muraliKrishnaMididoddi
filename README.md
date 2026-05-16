@@ -1104,7 +1104,7 @@ murali = {
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=muraliKrishnaMididoddi&hide_border=true&background=030412&stroke=33c2cc&ring=7a57db&fire=ea4884&currStreakLabel=33c2cc" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=muraliKrishnaMididoddi&theme=dark&hide_border=true&background=0D1117&ring=1a6b6b&fire=1a6b6b&currStreakLabel=1a6b6b&sideLabels=1a6b6b&dates=ffffff" alt="GitHub Streak" />
 </p>
 
 ---
