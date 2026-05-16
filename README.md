@@ -1163,7 +1163,14 @@ murali = {
 - Per-tenant Redis token bucket, priority queuing, exponential backoff, Grafana dashboards — full stack in one Docker command
 - **Tech:** Kafka · Python · Redis · FastAPI · Prometheus · Grafana · Docker
 
-### [01 · Patient Re-admission Predictive Analytics](https://github.com/muraliKrishnaMididoddi/PortfolioProjects/blob/main/Patient%20re-admission_Predictive_Analytics.ipynb)
+### [01 · Distributed Document Ingestion + RAG Pipeline](https://github.com/muraliKrishnaMididoddi/rag-pipeline)
+- **Production RAG for legal, pharma & technical docs** — not a Streamlit demo
+- Docling layout detection → semantic chunking → PII redaction → entity extraction → Bedrock embeddings → Pinecone + Neo4j
+- Distributed async workers on ECS Fargate processing thousands of PDFs concurrently with DynamoDB state tracking
+- Hybrid retrieval (vector + BM25 + graph) with cross-encoder reranking; evaluated with Precision@k / Recall@k / RAG Triad
+- **Tech:** Docling · Pinecone · Neo4j · ECS Fargate · DynamoDB · S3 · Bedrock · LangSmith · FastAPI
+
+### [02 · Patient Re-admission Predictive Analytics](https://github.com/muraliKrishnaMididoddi/PortfolioProjects/blob/main/Patient%20re-admission_Predictive_Analytics.ipynb)
 - Predicted patient readmissions using ML — achieved **20% reduction** in readmission rates
 - Applied data preprocessing, feature engineering, and predictive modeling on clinical datasets
 - **Tech:** Python, Scikit-Learn, Pandas, Healthcare Analytics
@@ -1173,45 +1180,45 @@ murali = {
 - Built statistical hypothesis testing framework for digital marketing optimization
 - **Tech:** Python, Scipy, Seaborn, NumPy, Statistical Analysis
 
-### [03 · Twitter Sentiment Analysis](https://github.com/muraliKrishnaMididoddi/PortfolioProjects/blob/main/Twitter%20Sentiment%20Analysis.ipynb)
+### [04 · Twitter Sentiment Analysis](https://github.com/muraliKrishnaMididoddi/PortfolioProjects/blob/main/Twitter%20Sentiment%20Analysis.ipynb)
 - Processed **500K+ tweets** with **98% efficiency** using NLP and transformer models
 - Reduced analysis time by **40%** enabling real-time sentiment tracking
 - **Tech:** Python, NLP, Transformers, Pandas
 
-### [04 · Movie Recommendation System](https://github.com/muraliKrishnaMididoddi/PortfolioProjects/blob/main/Movie%20Portfolio%20Project.ipynb)
+### [05 · Movie Recommendation System](https://github.com/muraliKrishnaMididoddi/PortfolioProjects/blob/main/Movie%20Portfolio%20Project.ipynb)
 - **95% accuracy** in movie recommendations using collaborative filtering
 - **70% improved search speed** with optimized database queries
 - **Tech:** Python, Scikit-Learn, Matplotlib, NumPy, Pandas
 
-### [05 · Clustering Wine Dataset — K-Means & DBSCAN](https://github.com/muraliKrishnaMididoddi/PortfolioProjects/blob/main/Clustering%20wine%20dataset%20with%20k-means%20and%20DBSCAN.ipynb)
+### [06 · Clustering Wine Dataset — K-Means & DBSCAN](https://github.com/muraliKrishnaMididoddi/PortfolioProjects/blob/main/Clustering%20wine%20dataset%20with%20k-means%20and%20DBSCAN.ipynb)
 - Classified **1,000+ wine samples** achieving **15% higher cluster accuracy**
 - Used K-Means for segmentation and DBSCAN for outlier detection
 - **Tech:** Python, K-Means, DBSCAN, Matplotlib
 
-### [06 · SQL Data Cleaning](https://github.com/muraliKrishnaMididoddi/PortfolioProjects/blob/main/SQL%20DATA%20CLEANING.sql)
+### [07 · SQL Data Cleaning](https://github.com/muraliKrishnaMididoddi/PortfolioProjects/blob/main/SQL%20DATA%20CLEANING.sql)
 - **Reduced data duplication by 30%** through structured SQL cleaning processes
 - Standardized raw datasets for enhanced integrity and downstream usability
 - **Tech:** SQL, Data Quality, ETL
 
-### [07 · House Pricing — KNN & XGBoost](https://github.com/muraliKrishnaMididoddi/PortfolioProjects/blob/main/House%20Pricing%20with%20KNN%20and%20XGBoost.ipynb)
+### [08 · House Pricing — KNN & XGBoost](https://github.com/muraliKrishnaMididoddi/PortfolioProjects/blob/main/House%20Pricing%20with%20KNN%20and%20XGBoost.ipynb)
 - **15% accuracy improvement** analyzing **50K+ rows** of housing data
 - Pipeline handles **1M+ rows** with **30% reduced runtime**
 - **Tech:** Python, KNN, XGBoost, Feature Engineering
 
-### [08 · Tableau Sales Analysis](https://github.com/muraliKrishnaMididoddi/PortfolioProjects/blob/main/tableau%20analysis%201.twbx)
+### [09 · Tableau Sales Analysis](https://github.com/muraliKrishnaMididoddi/PortfolioProjects/blob/main/tableau%20analysis%201.twbx)
 - Interactive dashboards identifying sales trends — resulted in **10% revenue increase**
 - **Tech:** Tableau, BI, Sales Analytics
 
-### [09 · Student Management System](https://github.com/muraliKrishnaMididoddi/studentmngt)
+### [10 · Student Management System](https://github.com/muraliKrishnaMididoddi/studentmngt)
 - Full-stack Spring Boot app — **25% improved data accuracy**, **40% reduced processing time**
 - **Tech:** Java, Spring Boot, HTML, SQL
 
-### [10 · Credit Card Fraud Detection](https://github.com/muraliKrishnaMididoddi/PortfolioProjects/blob/main/Credit%20Card%20Fraud%20Detection%20-%20Decision%20Tree.ipynb)
+### [11 · Credit Card Fraud Detection](https://github.com/muraliKrishnaMididoddi/PortfolioProjects/blob/main/Credit%20Card%20Fraud%20Detection%20-%20Decision%20Tree.ipynb)
 - **99.3% accuracy** on 284K transactions using Decision Tree + SMOTE
 - **30% reduced fraud detection latency** enabling real-time screening
 - **Tech:** Python, Decision Tree, SMOTE, Pandas
 
-### [11 · Collaborative Filtering Recommendation Engine](https://github.com/muraliKrishnaMididoddi/collaborative-filtering-recommendation-engine)
+### [12 · Collaborative Filtering Recommendation Engine](https://github.com/muraliKrishnaMididoddi/collaborative-filtering-recommendation-engine)
 - ALS-based Spark MLlib engine processing **2M+ user-item interactions**
 - Generated **top-10 recommendations for 2M+ users** with **0.87 RMSE**
 - **Tech:** PySpark, Apache Spark, MLlib, ALS, Collaborative Filtering
