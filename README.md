@@ -947,8 +947,10 @@ murali = {
 
 ## Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,azure,aws,docker,kubernetes,github,postgresql,java,tensorflow,pytorch&perline=5" />
+  <img src="https://skillicons.dev/icons?i=python,azure,aws,docker,kubernetes,github,postgresql,java,tensorflow,pytorch,kafka,redis,bash,linux,scala&perline=5" />
 </p>
+
+<br/>
 
 <br/>
 
