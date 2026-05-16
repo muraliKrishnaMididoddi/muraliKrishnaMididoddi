@@ -1078,6 +1078,12 @@ murali = {
 - Engaged with leading AI researchers exploring collaboration in large-scale ML and data integration
 
 ---
+## Recent Activity
+
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:end-->
+
+---
 ## Activity Graph
 
 <p align="center">
