@@ -871,6 +871,9 @@ Thank you for visiting my GitHub profile. I'm passionate about building secure, 
 -->
 
 <h1 align="center">Murali Krishna Mididoddi | Data & AI Engineer</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=1A6B6B&center=true&vCenter=true&width=600&lines=Hi+I'm+Murali+Krishna+%F0%9F%91%8B;Data+%26+AI+Engineer;Azure+%7C+AWS+%7C+Databricks+%7C+Spark;Building+Pipelines+That+Think;Open+To+Opportunities!" alt="Typing SVG" />
+</p>
 
 
 <p align="center">
