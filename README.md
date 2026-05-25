@@ -870,63 +870,6 @@ If my profile matches your hiring needs, feel free to connect!
 Thank you for visiting my GitHub profile. I'm passionate about building secure, scalable data and platform solutions — and always open to exciting new opportunities!
 -->
 
-<h1 align="center">Murali Krishna Mididoddi | Data & AI Engineer</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=1A6B6B&center=true&vCenter=true&width=600&lines=Hi+I'm+Murali+Krishna+%F0%9F%91%8B;Data+%26+AI+Engineer;Azure+%7C+AWS+%7C+Databricks+%7C+Spark;LLM+Infrastructure+%7C+Kafka+%7C+Redis;Building+Pipelines+That+Think;Open+To+Opportunities!" alt="Typing SVG" />
-</p>
-
-
-<p align="center">
-  <b>Azure • AWS • Databricks • Spark • PySpark • SQL • ML • GenAI</b>
-</p>
-
-<p align="center">
-  Building scalable data pipelines, lakehouse architectures, ML-powered analytics, and AI-driven platforms across healthcare, financial services, and enterprise domains.
-</p>
-
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=muraliKrishnaMididoddi&label=Profile%20Views&color=33c2cc&style=flat">
-    <img src="https://komarev.com/ghpvc/?username=muraliKrishnaMididoddi&label=Profile%20Views&color=33c2cc&style=flat" alt="profile views" />
-  </a>
-  <a href="https://github.com/muraliKrishnaMididoddi?tab=followers">
-    <img src="https://img.shields.io/github/followers/muraliKrishnaMididoddi?label=Followers&style=flat&color=33c2cc" alt="followers" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/murali-krishna-data-scientist/">
-    <img src="https://img.shields.io/badge/LinkedIn-Murali%20Krishna-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="mailto:munnummk499@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail" alt="Email" />
-  </a>
-  <a href="https://github.com/muraliKrishnaMididoddi">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub" />
-  </a>
-  <a href="https://muralikrishnamididoddi.github.io/Murali_portfolio.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-5c33cc?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-</p>
-
----
-## 🚦 Featured Open Source Project
-
-### [LLM Rate-Limit Backpressure Engine](https://github.com/muraliKrishnaMididoddi/llm-backpressure-engine)
-
-> Solving the 8.4 million monthly LLM rate-limit failure problem — production-grade, open source.
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/)
-[![Kafka](https://img.shields.io/badge/Kafka-powered-231F20?logo=apachekafka)](https://kafka.apache.org/)
-[![Redis](https://img.shields.io/badge/Redis-rate--limiting-DC382D?logo=redis)](https://redis.io/)
-[![FastAPI](https://img.shields.io/badge/FastAPI-gateway-009688?logo=fastapi)](https://fastapi.tiangolo.com/)
-
-In March 2026, 60% of LLM API errors were rate-limit failures — **8.4 million failed calls in a single month**. This engine fixes that at the infrastructure level.
-
-Your App → FastAPI Gateway → Kafka Queue → Rate-Limit Worker → LLM API
-↑                ↓
-Redis (token       Prometheus
-buckets/tenant)    + Grafana
 **What it does:**
 - ⚡ Per-tenant token bucket rate limiting via Redis Lua scripts (atomic, no race conditions)
 - 🎯 Priority queuing — high-SLA requests always drain before batch jobs
@@ -983,11 +926,10 @@ murali = {
 ---
 
 ## Tech Stack
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,azure,aws,docker,kubernetes,github,postgresql,java,tensorflow,pytorch,kafka,redis,bash,linux,scala&perline=5" />
 </p>
-
-<br/>
 
 <br/>
 
@@ -998,12 +940,14 @@ murali = {
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![NLP](https://img.shields.io/badge/NLP-Transformers-yellow?style=flat-square&logo=huggingface&logoColor=white)
 ![MLlib](https://img.shields.io/badge/Spark_MLlib-E25A1C?style=flat-square&logo=apache-spark&logoColor=white)
+
 ### 🚦 LLM Infrastructure
 ![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+
 ### 📊 Data Engineering & Big Data
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
@@ -1120,12 +1064,14 @@ murali = {
 - Engaged with leading AI researchers exploring collaboration in large-scale ML and data integration
 
 ---
+
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
 <!--RECENT_ACTIVITY:end-->
 
 ---
+
 ## Activity Graph
 
 <p align="center">
@@ -1133,10 +1079,25 @@ murali = {
 </p>
 
 ---
+
 ## Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/muraliKrishnaMididoddi/muraliKrishnaMididoddi/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
+
+---
+
+## LeetCode Stats
+
+<p align="center">
+  <a href="https://leetcode.com/u/MUNNUMMK499/">
+    <img src="https://img.shields.io/badge/LeetCode-MUNNUMMK499-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/MUNNUMMK499?theme=dark&font=Fira%20Code&ext=heatmap&border=0&radius=8" alt="LeetCode Stats" />
 </p>
 
 ---
@@ -1158,6 +1119,7 @@ murali = {
 ---
 
 ## Projects
+
 ### [00 · 🚦 LLM Rate-Limit Backpressure Engine](https://github.com/muraliKrishnaMididoddi/llm-backpressure-engine) ⭐ Featured Open Source
 - **Solved the 8.4M monthly LLM rate-limit failure problem** with a production-grade Kafka-based backpressure engine
 - Per-tenant Redis token bucket, priority queuing, exponential backoff, Grafana dashboards — full stack in one Docker command
@@ -1175,7 +1137,7 @@ murali = {
 - Applied data preprocessing, feature engineering, and predictive modeling on clinical datasets
 - **Tech:** Python, Scikit-Learn, Pandas, Healthcare Analytics
 
-### [02 · Landing Page Optimization via A/B Testing](https://github.com/muraliKrishnaMididoddi/PortfolioProjects/blob/main/ABTesting.ipynb)
+### [03 · Landing Page Optimization via A/B Testing](https://github.com/muraliKrishnaMididoddi/PortfolioProjects/blob/main/ABTesting.ipynb)
 - **15% increase in conversion rates** and **10% reduction in bounce rates** through data-driven testing
 - Built statistical hypothesis testing framework for digital marketing optimization
 - **Tech:** Python, Scipy, Seaborn, NumPy, Statistical Analysis
@@ -1281,6 +1243,7 @@ Especially interested in roles involving:
 If my profile matches your hiring needs, feel free to connect!
 
 ---
+
 ## Quote of the Day
 
 <p align="center">
@@ -1297,6 +1260,7 @@ If my profile matches your hiring needs, feel free to connect!
 | 📞 **Phone** | (470) 722-4770 |
 | 💼 **LinkedIn** | [linkedin.com/in/murali-krishna-data-scientist](https://www.linkedin.com/in/murali-krishna-data-scientist/) |
 | 🐙 **GitHub** | [github.com/muraliKrishnaMididoddi](https://github.com/muraliKrishnaMididoddi) |
+| 🟡 **LeetCode** | [leetcode.com/u/MUNNUMMK499](https://leetcode.com/u/MUNNUMMK499/) |
 | 🌐 **Portfolio** | [muralikrishnamididoddi.github.io/Murali_portfolio.github.io](https://muralikrishnamididoddi.github.io/Murali_portfolio.github.io/) |
 
 ---
