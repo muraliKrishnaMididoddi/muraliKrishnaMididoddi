@@ -870,23 +870,7 @@ If my profile matches your hiring needs, feel free to connect!
 Thank you for visiting my GitHub profile. I'm passionate about building secure, scalable data and platform solutions — and always open to exciting new opportunities!
 -->
 
-**What it does:**
-- ⚡ Per-tenant token bucket rate limiting via Redis Lua scripts (atomic, no race conditions)
-- 🎯 Priority queuing — high-SLA requests always drain before batch jobs
-- 🔄 Exponential backoff + jitter — eliminates thundering herd on 429s
-- 📊 Grafana dashboards auto-provisioned — queue depth, token spend, 429 rate, p99 latency
-- 🐳 One-command Docker setup — full stack in under 5 minutes
 
-**Stack:** `Kafka` · `Python` · `Redis` · `FastAPI` · `Prometheus` · `Grafana` · `Docker`
-
-```bash
-git clone https://github.com/muraliKrishnaMididoddi/llm-backpressure-engine.git
-cd llm-backpressure-engine
-cp .env.example .env
-docker compose up -d
-```
-
-⭐ [Star it on GitHub](https://github.com/muraliKrishnaMididoddi/llm-backpressure-engine)
 
 ---
 
