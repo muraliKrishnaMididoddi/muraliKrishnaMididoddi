@@ -873,39 +873,36 @@ Thank you for visiting my GitHub profile. I'm passionate about building secure, 
 
 
 ---
-
 ## About Me
 
-Hello! I'm **Murali Krishna Mididoddi**, a **Data & AI Engineer** with 3+ years of experience building **scalable data pipelines**, **ML-powered analytics platforms**, and **AI-driven solutions** across healthcare, financial services, and enterprise domains.
+Hello! I'm **Murali Krishna Mididoddi**, a **Senior Data Engineer** with 5 years of experience building **scalable data pipelines**, **lakehouse architectures**, and **ML-ready datasets** across healthcare, financial services, and enterprise domains.
 
 I specialize in end-to-end data engineering — from ingestion and transformation to warehousing, reporting, and machine learning integration — turning raw data into reliable, actionable intelligence.
 
 ```python
 murali = {
-    "role":        "Data & AI Engineer",
-    "location":    "Boston, MA 🇺🇸",
-    "open_to":     ["Data Engineer", "AI Engineer", "Analytics Engineer",
-                    "ML Engineer", "Cloud Data Engineer", "ETL Developer"],
-    "experience":  "3+ years",
-    "education":   "MS Big Data Analytics & IT — University of Central Missouri (GPA 3.70)",
-    "focus":       ["Data Pipelines", "Lakehouse Architecture", "ML Models",
-                    "GenAI / LLMs", "Real-time Analytics", "Cloud Platforms"],
+    "role":        "Senior Data Engineer",
+    "location":    "United States 🇺🇸",
+    "open_to":     ["Data Engineer", "AI/ML Engineer", "Analytics Engineer",
+                    "LLM Infrastructure Engineer", "Cloud Data Engineer", "ETL Developer"],
+    "experience":  "5 years",
+    "education":   "MS Big Data Analytics & IT — University of Central Missouri (GPA 3.71)",
+    "certifications": ["AWS ML Specialty", "AWS Cloud Practitioner", "Power BI Analyst Associate"],
+    "focus":       ["Data Pipelines", "Lakehouse Architecture", "ML Data Pipelines",
+                    "LLM Infrastructure", "Cloud Platforms", "Compliance (HIPAA/SOX/FINRA)"],
     "contact":     "munnummk499@gmail.com"
 }
 ```
 
----
-
 ## Recruiter Snapshot
 
-- **3+ years** of experience in Data Engineering, Analytics, and AI/ML
-- Hands-on with **Azure** (ADF, ADLS Gen2, Synapse, Databricks) and **AWS** (S3, Glue, Athena, Redshift)
-- Strong in **Python, SQL, Spark, PySpark, Databricks, Snowflake**
-- Experience building **ETL/ELT pipelines**, **data lakes**, and **lakehouse architectures**
-- Applied **ML and NLP** for healthcare analytics, fraud detection, and recommendation systems
-- Explored **GenAI / LLM** integration for analytics and insight generation
-- Experience across **healthcare, financial services, and enterprise analytics**
-- Open to **Data Engineer, AI Engineer, Analytics Engineer, and Cloud Data roles**
+- **5 years** of experience in Data Engineering across healthcare, financial services, and enterprise analytics
+- Hands-on with **Azure** (ADF, ADLS Gen2, Synapse, Databricks) and **AWS** (S3, Glue, Athena, Redshift, Lambda)
+- Strong in **Python, SQL, PySpark, Databricks, Snowflake, Spark**
+- Built **ETL/ELT pipelines**, **data lakes**, and **lakehouse architectures** processing millions of records daily
+- Experience with **HIPAA and financial compliance** (SOX/FINRA) pipelines
+- **AWS Certified Machine Learning Specialty** | AWS Cloud Practitioner | Power BI Analyst Associate
+- Open to **Data Engineer, Analytics Engineer, AI/ML Engineer, and Cloud Data roles**
 
 ---
 
@@ -980,62 +977,66 @@ murali = {
 - **GenAI / LLM Integration** — Applied AI for analytics and data-driven insights
 - **Cloud Data Platforms** — Azure & AWS data services at scale
 - **Data Modeling** — 3NF, dimensional modeling, star/snowflake schemas
-- **Data Quality & Governance** — Validation frameworks, lineage, HIPAA compliance
+- **Data Quality & Governance** — Validation frameworks, lineage, HIPAA & financial compliance
 - **Analytics & Reporting** — Power BI, Tableau, self-serve analytics enablement
 
 ---
 
 ## Experience
 
-### 🟢 CRM Analyst | Delaware North — TD Garden — Boston, MA (May 2026 – Present)
+### 🟢 Sr. Data Engineer | Product & Customer Analytics — Delaware North (TD Garden) — Remote (May 2026 – Present)
 
-- Led implementation of enterprise data workflows for CRM analytics and reporting
-- Built data pipelines integrating customer and event data for business intelligence
-- Developed dashboards and reporting solutions supporting revenue and engagement analytics
-- Automated data workflows improving operational efficiency across analytics teams
+- Managed Salesforce CRM workflows, user access, and MuleSoft integrations to support secure CRM operations
+- Developed ETL pipelines using SQL, Python, PostgreSQL, Redshift, and Databricks to improve data quality
+- Delivered Power BI, Tableau, and Salesforce dashboards for CRM, KPI, and operational reporting needs
+- Led Salesforce migration validation by cleansing and reconciling records across internal and external systems
+- Resolved CRM data issues with business, data engineering, and MLOps teams to improve pipeline reliability
 
-**Technologies:** Python, SQL, Azure, Power BI, CRM Analytics
+**Technologies:** Python, PySpark, SQL, PostgreSQL, MongoDB, Salesforce CRM, AWS (S3, Lambda, Glue), Azure Databricks, Power BI, Snowflake, Kafka, Jenkins, REST APIs
 
 ---
 
-### Sr. Data & Analytics Engineer | Rollins Inc — Marietta, GA (Aug 2025 – Mar 2026)
+### Sr. Data & Analytics Engineer | Rollins Inc — Atlanta, GA (Aug 2025 – Mar 2026)
 
-- Designed enterprise-scale Azure data architectures supporting marketing analytics platforms
-- Developed scalable PySpark pipelines on Databricks processing large campaign and customer datasets
-- Built ingestion and transformation workflows using Azure Data Factory for centralized data processing
-- Implemented ADLS Gen2 data lake with Delta Lake and Parquet for optimized analytics performance
-- Designed and optimized Synapse SQL pools and Snowflake warehouses for reporting datasets
-- Implemented data validation frameworks ensuring high data quality across all pipelines
-- Enabled self-serve analytics using Power BI and Alteryx dashboards
-- Applied 3NF and dimensional modeling for analytics-ready datasets
+- Designed and implemented Azure-based data architecture supporting analytics and ML-driven use cases
+- Developed scalable PySpark pipelines on Databricks processing 5M+ records per batch for analytics and feature generation
+- Built data ingestion and transformation workflows using Azure Data Factory (ADF) for structured and semi-structured data
+- Implemented ADLS Gen2 data lake architecture storing TB-scale data for BI and ML consumption
+- Migrated on-prem Oracle data to Azure Data Lake and Synapse Analytics, enabling faster analytics and model-ready datasets
+- Optimized Databricks jobs using partitioning and caching, reducing query latency by 30%
+- Implemented data quality validation and monitoring frameworks improving pipeline reliability
+- Automated CI/CD pipelines using GitHub and Jenkins for faster and consistent deployments
+- Processed large-scale datasets (millions of records per batch), improving processing efficiency by 35%
 
-**Technologies:** Azure, Databricks, Spark, Snowflake, ADF, ADLS Gen2, Python, SQL, Power BI, Alteryx
+**Technologies:** Azure (ADLS Gen2, ADF, Synapse, Azure SQL), Databricks, Spark, Snowflake, Python, SQL, Oracle, Tableau, GitHub, Jenkins
 
 ---
 
 ### Data Engineer | Federal Home Loan Bank — Atlanta, GA (Feb 2025 – Aug 2025)
 
-- Developed and optimized data pipelines for financial data processing and reporting
-- Implemented data security controls and compliance frameworks for sensitive financial data
-- Built data models supporting regulatory reporting and business analytics
-- Automated data ingestion and transformation workflows reducing manual processing time
-- Collaborated with analytics teams to enable data-driven decision making
+- Developed ETL pipelines processing 3M+ financial transactions daily for analytics and risk modeling
+- Built batch and incremental ingestion pipelines using Azure Data Factory for large-scale financial datasets
+- Worked on On-Prem Cloudera Hadoop integrated with Azure analytics workflows
+- Optimized Spark jobs using partitioning, caching, and broadcast joins
+- Implemented row-level security and data masking for sensitive financial data meeting SOX and FINRA compliance requirements
+- Designed curated datasets in Azure Synapse Analytics for downstream reporting and ML consumption
+- Performed data quality validation and reconciliation using SQL and Python scripts
 
-**Technologies:** Python, SQL, Cloud Data Platforms, Data Modeling, Agile, JIRA
+**Technologies:** Azure (ADF, ADLS, Synapse), Hadoop (Cloudera), Spark, Hive, Python, SQL, GitHub, JIRA
 
 ---
 
-### Data Engineer | Aetna Insurance — Hartford, CT (Mar 2021 – Dec 2022)
+### Junior Data Engineer | Aetna Insurance — Hartford, CT (Jan 2020 – Dec 2022)
 
-- Built AWS-based healthcare data pipelines for claims analytics and reporting
-- Developed ETL workflows using AWS Glue for data ingestion and transformation
-- Implemented S3 data lake architectures for scalable healthcare data storage
-- Built SQL transformations for regulatory reporting and clinical analytics
-- Applied HIPAA compliance and data security standards throughout all pipelines
-- Automated CI/CD using Jenkins and GitHub for pipeline deployment
-- Performed data validation and profiling ensuring high data quality standards
+- Built AWS-based ETL pipelines processing 2M+ healthcare records daily for claims and member analytics
+- Developed workflows using AWS Glue for data ingestion and transformation
+- Implemented S3-based data lake using Parquet and JSON formats
+- Developed complex SQL and PL/SQL queries for data transformation and aggregation
+- Implemented IAM policies and encryption for HIPAA-compliant healthcare data
+- Enabled ad-hoc analytics using AWS Athena
+- Automated deployments using GitHub and Jenkins
 
-**Technologies:** AWS, Glue, S3, Athena, SQL, Hadoop, Python, Jenkins
+**Technologies:** AWS (S3, Glue, Athena, Lambda), Oracle, PostgreSQL, SQL, PL/SQL, Hadoop, GitHub, Jenkins
 
 ---
 
