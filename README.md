@@ -1053,6 +1053,8 @@ murali = {
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
+1. 🔱 Forked [muraliKrishnaMididoddi/BookYouNeed](https://github.com/muraliKrishnaMididoddi/BookYouNeed) from [taruntiwarihp/BookYouNeed](https://github.com/taruntiwarihp/BookYouNeed)
+2. 🔱 Forked [muraliKrishnaMididoddi/ebook](https://github.com/muraliKrishnaMididoddi/ebook) from [learning-zone/ebook](https://github.com/learning-zone/ebook)
 <!--RECENT_ACTIVITY:end-->
 
 ---
