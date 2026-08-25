@@ -875,7 +875,7 @@ Thank you for visiting my GitHub profile. I'm passionate about building secure, 
 ---
 ## About Me
 
-Hello! I'm **Murali Krishna Mididoddi**, a **Senior Data Engineer** with 5 years of experience building **scalable data pipelines**, **lakehouse architectures**, and **ML-ready datasets** across healthcare, financial services, and enterprise domains.
+Hello! I'm **Murali Krishna Mididoddi**, a **Senior ML and Data Engineer** with 5 years of experience building **scalable data pipelines**, **lakehouse architectures**, and **ML-ready datasets** across healthcare, financial services, and enterprise domains.
 
 I specialize in end-to-end data engineering — from ingestion and transformation to warehousing, reporting, and machine learning integration — turning raw data into reliable, actionable intelligence.
 
@@ -984,7 +984,7 @@ murali = {
 
 ## Experience
 
-### 🟢 Sr. Data Engineer | Product & Customer Analytics — Delaware North (TD Garden) — Remote (May 2026 – Present)
+### 🟢 Sr. ML and Data Engineer | Product & Customer Analytics — Delaware North (TD Garden) — Remote (May 2026 – Present)
 
 - Managed Salesforce CRM workflows, user access, and MuleSoft integrations to support secure CRM operations
 - Developed ETL pipelines using SQL, Python, PostgreSQL, Redshift, and Databricks to improve data quality
@@ -996,7 +996,7 @@ murali = {
 
 ---
 
-### Sr. Data & Analytics Engineer | Rollins Inc — Atlanta, GA (Aug 2025 – Mar 2026)
+### Sr. Data & ML Engineer | Rollins Inc — Atlanta, GA (Aug 2025 – Mar 2026)
 
 - Designed and implemented Azure-based data architecture supporting analytics and ML-driven use cases
 - Developed scalable PySpark pipelines on Databricks processing 5M+ records per batch for analytics and feature generation
@@ -1012,7 +1012,7 @@ murali = {
 
 ---
 
-### Data Engineer | Federal Home Loan Bank — Atlanta, GA (Feb 2025 – Aug 2025)
+### ML Engineer | Federal Home Loan Bank — Atlanta, GA (Feb 2025 – Aug 2025)
 
 - Developed ETL pipelines processing 3M+ financial transactions daily for analytics and risk modeling
 - Built batch and incremental ingestion pipelines using Azure Data Factory for large-scale financial datasets
@@ -1026,7 +1026,7 @@ murali = {
 
 ---
 
-### Junior Data Engineer | Aetna Insurance — Hartford, CT (Jan 2020 – Dec 2022)
+### Junior ML Engineer | Aetna Insurance — Hartford, CT (Jan 2020 – Dec 2022)
 
 - Built AWS-based ETL pipelines processing 2M+ healthcare records daily for claims and member analytics
 - Developed workflows using AWS Glue for data ingestion and transformation
