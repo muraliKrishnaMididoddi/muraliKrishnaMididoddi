@@ -873,7 +873,7 @@ Thank you for visiting my GitHub profile. I'm passionate about building secure, 
 
 
 ---
-```markdown
+
 ## About Me
 
 Hello! I'm **Murali Krishna Mididoddi**, a **Senior Data Engineer** with 5+ years of experience building **HIPAA-compliant data platforms**, **enterprise-scale pipelines**, and **production AI/ML infrastructure** across healthcare, financial services, and sports & entertainment.
@@ -905,10 +905,10 @@ murali = {
 ## Recruiter Snapshot
 
 - 5+ years in data engineering across healthcare, financial services, and sports & entertainment
-- HIPAA-compliant and audit-ready pipelines — zero audit findings over 22 months at Aetna
+- HIPAA-compliant and audit-ready pipelines zero audit findings over 22 months at Aetna
 - Core stack: Python, SQL, PySpark, Databricks, Snowflake, AWS Glue, Lambda, Redshift, Athena, Azure Data Factory, Kafka, Terraform, dbt, FastAPI, LangChain, Hugging Face, Pinecone, Neo4j, Salesforce CRM, MuleSoft
 - AI/ML:RAG, vector databases, model evaluation, retrieval quality analysis, agent orchestration, and AI-assisted development tools (Claude Code, Cursor, Codex)
-- AWS Certified Machine Learning Specialty** | AWS Cloud Practitioner
+- AWS Certified Machine Learning Specialty| AWS Cloud Practitioner
 - Comfortable across the full lifecycle: ingestion, transformation, orchestration, storage, data quality, lineage, governance, APIs, model integration, evaluation, observability, and production deployment
 - Currently open to work — full-time, W2 contract, remote, hybrid, and on-site
 
