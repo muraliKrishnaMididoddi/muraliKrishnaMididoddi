@@ -873,180 +873,168 @@ Thank you for visiting my GitHub profile. I'm passionate about building secure, 
 
 
 ---
+```markdown
 ## About Me
 
-Hello! I'm **Murali Krishna Mididoddi**, a **Senior ML and Data Engineer** with 5 years of experience building **scalable data pipelines**, **lakehouse architectures**, and **ML-ready datasets** across healthcare, financial services, and enterprise domains.
+Hello! I'm **Murali Krishna Mididoddi**, a **Senior Data Engineer** with 5+ years of experience building **HIPAA-compliant data platforms**, **enterprise-scale pipelines**, and **production AI/ML infrastructure** across healthcare, financial services, and sports & entertainment.
 
-I specialize in end-to-end data engineering — from ingestion and transformation to warehousing, reporting, and machine learning integration — turning raw data into reliable, actionable intelligence.
+I specialize in turning regulated, high-volume data into reliable, scalable systems that can withstand production demands, audits, and evolving business requirements.
+
+**Career highlights**
+- **Aetna (CVS Health):** architected HIPAA-compliant AWS data infrastructure processing 5M+ healthcare claim records, cut query latency by 30%, and supported **22 months with zero audit findings**
+- **Federal Home Loan Bank of Atlanta:** automated FHFA regulatory reporting workflows, eliminating ~**12 hours/week** of manual data preparation with audit-ready lineage and traceability
+- **Rollins, Inc.:** designed enterprise lakehouse architecture (Azure Data Factory, ADLS Gen2, Databricks, Bronze-Silver-Gold) supporting operations, financial analytics, and ML workloads
+- **GenAI / AI Engineering:** a Distributed RAG Pipeline (Pinecone, Neo4j, ECS Fargate, Amazon Bedrock) and an LLM Rate-Limit Backpressure Engine (Kafka, Redis, FastAPI) addressing millions of monthly API failures
 
 ```python
 murali = {
     "role":        "Senior Data Engineer",
-    "location":    "United States 🇺🇸",
-    "open_to":     ["Data Engineer", "AI/ML Engineer", "Analytics Engineer",
-                    "LLM Infrastructure Engineer", "Cloud Data Engineer", "ETL Developer"],
-    "experience":  "5 years",
-    "education":   "MS Big Data Analytics & IT — University of Central Missouri (GPA 3.71)",
-    "certifications": ["AWS ML Specialty", "AWS Cloud Practitioner", "Power BI Analyst Associate"],
-    "focus":       ["Data Pipelines", "Lakehouse Architecture", "ML Data Pipelines",
-                    "LLM Infrastructure", "Cloud Platforms", "Compliance (HIPAA/SOX/FINRA)"],
+    "location":    "Atlanta Metropolitan Area (open to NYC, Boston + 3 more)",
+    "open_to":     ["Senior Data Engineer", "Healthcare Data Engineer", "AI Engineer",
+                    "Generative AI", "Machine Learning Engineer", "Data Platform Engineer"],
+    "experience":  "5+ years",
+    "education":   "MS Big Data Analytics — University of Central Missouri (GPA 3.70)",
+    "certifications": ["AWS ML Specialty", "AWS Cloud Practitioner"],
+    "top_skills":  ["Docker / Kubernetes", "Terraform", "dbt", "LangChain", "AWS SageMaker"],
+    "focus":       ["Data Platforms", "Lakehouse Architecture", "RAG & LLM Infrastructure",
+                    "Governance & Compliance (HIPAA / SOX / FINRA)"],
     "contact":     "munnummk499@gmail.com"
 }
 ```
 
 ## Recruiter Snapshot
 
-- **5 years** of experience in Data Engineering across healthcare, financial services, and enterprise analytics
-- Hands-on with **Azure** (ADF, ADLS Gen2, Synapse, Databricks) and **AWS** (S3, Glue, Athena, Redshift, Lambda)
-- Strong in **Python, SQL, PySpark, Databricks, Snowflake, Spark**
-- Built **ETL/ELT pipelines**, **data lakes**, and **lakehouse architectures** processing millions of records daily
-- Experience with **HIPAA and financial compliance** (SOX/FINRA) pipelines
-- **AWS Certified Machine Learning Specialty** | AWS Cloud Practitioner | Power BI Analyst Associate
-- Open to **Data Engineer, Analytics Engineer, AI/ML Engineer, and Cloud Data roles**
+- **5+ years** in data engineering across healthcare, financial services, and sports & entertainment
+- **HIPAA-compliant** and audit-ready pipelines — zero audit findings over 22 months at Aetna
+- **Core stack:** Python, SQL, PySpark, Databricks, Snowflake, AWS Glue, Lambda, Redshift, Athena, Azure Data Factory, Kafka, Terraform, dbt, FastAPI, LangChain, Hugging Face, Pinecone, Neo4j, Salesforce CRM, MuleSoft
+- **AI/ML:** RAG, vector databases, model evaluation, retrieval quality analysis, agent orchestration, and AI-assisted development tools (Claude Code, Cursor, Codex)
+- **AWS Certified Machine Learning Specialty** | AWS Cloud Practitioner
+- Comfortable across the full lifecycle: ingestion, transformation, orchestration, storage, data quality, lineage, governance, APIs, model integration, evaluation, observability, and production deployment
+- Currently open to work — full-time, W2 contract, remote, hybrid, and on-site
 
 ---
 
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,azure,aws,docker,kubernetes,github,postgresql,java,tensorflow,pytorch,kafka,redis,bash,linux,scala&perline=5" />
+  <img src="https://skillicons.dev/icons?i=python,azure,aws,docker,kubernetes,terraform,github,postgresql,java,tensorflow,pytorch,kafka,redis,bash,linux&perline=5" />
 </p>
 
 <br/>
 
 ### 🤖 AI & Machine Learning
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![SageMaker](https://img.shields.io/badge/AWS%20SageMaker-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-Transformers-yellow?style=flat-square&logo=huggingface&logoColor=white)
-![MLlib](https://img.shields.io/badge/Spark_MLlib-E25A1C?style=flat-square&logo=apache-spark&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square)
+![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white)
 
 ### 🚦 LLM Infrastructure
 ![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Amazon Bedrock](https://img.shields.io/badge/Amazon%20Bedrock-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 
-### 📊 Data Engineering & Big Data
+### 📊 Data Engineering
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-56B9EB?style=flat-square&logo=snowflake&logoColor=white)
 ![Delta Lake](https://img.shields.io/badge/Delta%20Lake-003366?style=flat-square)
-![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black)
-![Hive](https://img.shields.io/badge/Hive-FDEE21?style=flat-square&logo=apachehive&logoColor=black)
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
 
 ### ☁️ Cloud Platforms
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![ADF](https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=flat-square)
-![ADLS Gen2](https://img.shields.io/badge/ADLS%20Gen2-0078D4?style=flat-square)
-![Synapse](https://img.shields.io/badge/Synapse%20Analytics-0078D4?style=flat-square)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![AWS Glue](https://img.shields.io/badge/AWS%20Glue-232F3E?style=flat-square)
 ![Athena](https://img.shields.io/badge/AWS%20Athena-232F3E?style=flat-square)
 ![Redshift](https://img.shields.io/badge/Amazon%20Redshift-8C4FFF?style=flat-square)
+![Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![ADF](https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=flat-square)
+![ADLS Gen2](https://img.shields.io/badge/ADLS%20Gen2-0078D4?style=flat-square)
 
 ### 💻 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![PLSQL](https://img.shields.io/badge/PLSQL-F80000?style=flat-square&logo=oracle&logoColor=white)
 
 ### 🔧 Orchestration & DevOps
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-### 📈 BI & Visualization
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+### 🧩 CRM & Integration
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
+![MuleSoft](https://img.shields.io/badge/MuleSoft-00A0DF?style=flat-square&logo=mulesoft&logoColor=white)
 
 ---
 
 ## Core Competencies
 
-- **Data Pipeline Development** — ETL/ELT, batch & streaming, end-to-end automation
-- **Lakehouse Architecture** — Delta Lake, ADLS Gen2, S3, Databricks
-- **Machine Learning & AI** — Predictive models, NLP, recommendation systems, fraud detection
-- **GenAI / LLM Integration** — Applied AI for analytics and data-driven insights
-- **Cloud Data Platforms** — Azure & AWS data services at scale
-- **Data Modeling** — 3NF, dimensional modeling, star/snowflake schemas
-- **Data Quality & Governance** — Validation frameworks, lineage, HIPAA & financial compliance
-- **Analytics & Reporting** — Power BI, Tableau, self-serve analytics enablement
+- **Data Platform Engineering** — ETL/ELT, batch & incremental processing, orchestration, CI/CD
+- **Lakehouse Architecture** — Azure Data Factory, ADLS Gen2, Databricks, Bronze-Silver-Gold
+- **Regulated Data & Governance** — HIPAA, SOX, FINRA, FHFA reporting, lineage, auditability
+- **GenAI / AI Engineering** — RAG, LLM infrastructure, vector databases, agent orchestration, evaluation
+- **Machine Learning & MLOps** — feature pipelines, model comparison, deployment, monitoring
+- **Cloud Data Services** — AWS and Azure at scale
+- **Data Quality & Observability** — validation frameworks, idempotency, retries, failure handling
+- **CRM & Operational Data Integration** — Salesforce CRM, MuleSoft
 
 ---
 
 ## Experience
 
-### 🟢 Sr. ML and Data Engineer | Product & Customer Analytics — Delaware North (TD Garden) — Remote (May 2026 – Present)
+### Delaware North (TD Garden) — Remote
 
+**Associate Data and AI Engineer** (Jul 2026 – Present · 3 mos)
+- Building a survey analysis-to-insights MLOps pipeline using Python and ETL workflows
+
+**Senior Analyst | CRM Analytics** (May 2026 – Jul 2026 · 3 mos)
 - Managed Salesforce CRM workflows, user access, and MuleSoft integrations to support secure CRM operations
 - Developed ETL pipelines using SQL, Python, PostgreSQL, Redshift, and Databricks to improve data quality
-- Delivered Power BI, Tableau, and Salesforce dashboards for CRM, KPI, and operational reporting needs
+- Delivered Power BI, Tableau, and Salesforce dashboards for CRM, KPI, and operational reporting
 - Led Salesforce migration validation by cleansing and reconciling records across internal and external systems
-- Resolved CRM data issues with business, data engineering, and MLOps teams to improve pipeline reliability
-
-**Technologies:** Python, PySpark, SQL, PostgreSQL, MongoDB, Salesforce CRM, AWS (S3, Lambda, Glue), Azure Databricks, Power BI, Snowflake, Kafka, Jenkins, REST APIs
 
 ---
 
-### Sr. Data & ML Engineer | Rollins Inc — Atlanta, GA (Aug 2025 – Mar 2026)
+### ML Engineer, Azure & AWS Data Platform | Rollins, Inc. — Atlanta, GA (Contract, Aug 2025 – Mar 2026 · 8 mos)
 
-- Designed and implemented Azure-based data architecture supporting analytics and ML-driven use cases
-- Developed scalable PySpark pipelines on Databricks processing 5M+ records per batch for analytics and feature generation
-- Built data ingestion and transformation workflows using Azure Data Factory (ADF) for structured and semi-structured data
-- Implemented ADLS Gen2 data lake architecture storing TB-scale data for BI and ML consumption
-- Migrated on-prem Oracle data to Azure Data Lake and Synapse Analytics, enabling faster analytics and model-ready datasets
-- Optimized Databricks jobs using partitioning and caching, reducing query latency by 30%
-- Implemented data quality validation and monitoring frameworks improving pipeline reliability
-- Automated CI/CD pipelines using GitHub and Jenkins for faster and consistent deployments
-- Processed large-scale datasets (millions of records per batch), improving processing efficiency by 35%
-
-**Technologies:** Azure (ADLS Gen2, ADF, Synapse, Azure SQL), Databricks, Spark, Snowflake, Python, SQL, Oracle, Tableau, GitHub, Jenkins
+- Designed enterprise lakehouse architecture (Azure Data Factory, ADLS Gen2, Databricks, Bronze-Silver-Gold) supporting operations, financial analytics, and ML workloads
+- Engineered PySpark ETL pipelines processing millions of operational and financial records per batch, tuning partitioning and caching for performance
+- Built reusable ingestion frameworks for structured and semi-structured sources using AWS Glue, S3, Python, and SQL
+- Implemented automated data quality validation and failure-handling controls to raise reliability of financial reporting pipelines
 
 ---
 
-### ML Engineer | Federal Home Loan Bank — Atlanta, GA (Feb 2025 – Aug 2025)
+### Associate Data Engineer | Federal Home Loan Bank of Atlanta — Atlanta, GA (Contract, Feb 2025 – Aug 2025 · 7 mos)
 
-- Developed ETL pipelines processing 3M+ financial transactions daily for analytics and risk modeling
-- Built batch and incremental ingestion pipelines using Azure Data Factory for large-scale financial datasets
-- Worked on On-Prem Cloudera Hadoop integrated with Azure analytics workflows
-- Optimized Spark jobs using partitioning, caching, and broadcast joins
-- Implemented row-level security and data masking for sensitive financial data meeting SOX and FINRA compliance requirements
-- Designed curated datasets in Azure Synapse Analytics for downstream reporting and ML consumption
-- Performed data quality validation and reconciliation using SQL and Python scripts
-
-**Technologies:** Azure (ADF, ADLS, Synapse), Hadoop (Cloudera), Spark, Hive, Python, SQL, GitHub, JIRA
+- Led data processing and integration workflows supporting financial operations, risk analytics, and FHFA regulatory reporting in a high-compliance environment
+- Automated financial data preparation workflows, eliminating ~12 hours/week of manual effort with end-to-end audit-ready lineage
+- Implemented role-based access, validation, and traceable change controls supporting auditability — the same rigor healthcare compliance demands
 
 ---
 
-### Junior ML Engineer | Aetna Insurance — Hartford, CT (Jan 2020 – Dec 2022)
+### Data Engineer | Aetna, a CVS Health Company — Remote (Contract, Jan 2021 – Dec 2022 · 2 yrs)
 
-- Built AWS-based ETL pipelines processing 2M+ healthcare records daily for claims and member analytics
-- Developed workflows using AWS Glue for data ingestion and transformation
-- Implemented S3-based data lake using Parquet and JSON formats
-- Developed complex SQL and PL/SQL queries for data transformation and aggregation
-- Implemented IAM policies and encryption for HIPAA-compliant healthcare data
-- Enabled ad-hoc analytics using AWS Athena
-- Automated deployments using GitHub and Jenkins
-
-**Technologies:** AWS (S3, Glue, Athena, Lambda), Oracle, PostgreSQL, SQL, PL/SQL, Hadoop, GitHub, Jenkins
+- Architected AWS-based data pipelines for healthcare claims ingestion, transformation, and regulatory reporting across high-volume datasets
+- Built an Amazon S3 data lake and AWS Glue ETL workflows processing millions of healthcare records through scalable batch pipelines
+- Optimized SQL transformation layers in Athena and Redshift using partitioning, cutting query latency 30% across 5M+ record batches
+- Enforced healthcare data security, governance, and validation standards — zero audit findings over 22 months
+- Automated CI/CD with Jenkins and GitHub, reducing manual release effort and deployment risk
+- Enabled self-service analytics for clinical, operational, and finance reporting teams via curated Athena datasets
 
 ---
 
-## Conferences & Workshops
-
-### International Conference on Machine Learning (ICML) — Jul 2024
-
-- Attended workshops on deep learning, reinforcement learning, and state-of-the-art ML techniques
-- Participated in hands-on tutorials with TensorFlow and PyTorch for model optimization
-- Engaged with leading AI researchers exploring collaboration in large-scale ML and data integration
+### Senior Analyst, FP&A – Commercial Revenue | Aetna, a CVS Health Company (Jan 2020 – Dec 2020 · 1 yr)
 
 ---
 
@@ -1113,7 +1101,7 @@ murali = {
 - **Tech:** Kafka · Python · Redis · FastAPI · Prometheus · Grafana · Docker
 
 ### [01 · Distributed Document Ingestion + RAG Pipeline](https://github.com/muraliKrishnaMididoddi/rag-pipeline)
-- **Production RAG for legal, pharma & technical docs** — not a Streamlit demo
+- **Production RAG for legal, pharma & technical docs** — originated as my MS capstone (Distributed RAG Pipeline for Healthcare Document Retrieval), built to production standards
 - Docling layout detection → semantic chunking → PII redaction → entity extraction → Bedrock embeddings → Pinecone + Neo4j
 - Distributed async workers on ECS Fargate processing thousands of PDFs concurrently with DynamoDB state tracking
 - Hybrid retrieval (vector + BM25 + graph) with cross-encoder reranking; evaluated with Precision@k / Recall@k / RAG Triad
@@ -1176,13 +1164,14 @@ murali = {
 
 ## Education
 
-### Masters in Big Data Analytics and IT
+### Master's Degree, Big Data Analytics
 **University of Central Missouri** — Warrensburg, United States
-Graduated: Dec 2024 | **GPA: 3.70**
-Coursework: Big Data Analytics, Data Mining, Statistical Methods, Machine Learning, Database Management, Business Intelligence, Tableau
+Jan 2023 – Dec 2024 | **GPA: 3.70**
+Relevant coursework: Big Data Analytics · Data Mining · Statistical Methods · Machine Learning · Database Management · Business Intelligence · Information Visualization · Project Management · Natural Language Processing
+Capstone: Distributed RAG Pipeline for Healthcare Document Retrieval — built an end-to-end RAG system using Pinecone, Neo4j, and AWS Bedrock, demonstrating production-grade AI engineering beyond coursework
 
-### Bachelor of Technology in Electronics and Communications Engineering
-**JNTUK** — Kakinada, India | Graduated: May 2022
+### Bachelor's Degree
+**KKR&KSR Institute of Technology & Sciences** — Vinjanampadu Village, India | Jul 2018 – Jul 2022
 
 ---
 
@@ -1192,7 +1181,6 @@ Coursework: Big Data Analytics, Data Mining, Statistical Methods, Machine Learni
 |---|---|
 | 🏆 AWS Certified Machine Learning: Specialty | Feb 2025 – Feb 2028 |
 | ☁️ AWS Certified Cloud Practitioner | Sep 2024 – Sep 2027 |
-| 📊 Microsoft Power BI Analyst Associate | Sep 2024 – Sep 2025 |
 | 🗄️ HackerRank SQL Certificate | Jul 2024 |
 | 📐 Google: Foundations — Data, Data, Everywhere | May 2024 |
 | 📐 Google: Ask Questions to Make Data-Driven Decisions | May 2024 |
@@ -1209,33 +1197,17 @@ Coursework: Big Data Analytics, Data Mining, Statistical Methods, Machine Learni
 
 ## Open to Opportunities
 
-I'm actively exploring opportunities in:
+I'm actively exploring roles in:
 
-- 🔹 Data Engineer
-- 🔹 AI / ML Engineer
-- 🔹 Analytics Engineer
-- 🔹 Cloud Data Engineer
-- 🔹 ETL Developer
-- 🔹 LLM Infrastructure Engineer
-- 🔹 Big Data Engineer
+- 🔹 Senior Data Engineer
+- 🔹 Healthcare Data Engineer
+- 🔹 AI Engineer / Generative AI
+- 🔹 Machine Learning Engineer
+- 🔹 Data Platform Engineer
 
-Especially interested in roles involving:
+Especially interested in roles where **reliability, governance, security, and regulatory rigor** are core engineering requirements — full-time, W2 contract, remote, hybrid, or on-site, based in the Atlanta metro area or the NYC/Boston metro areas.
 
-- Azure Data Factory, ADLS Gen2, Synapse, Databricks
-- AWS S3, Glue, Athena, Redshift
-- Spark, PySpark, SQL, Data Warehousing
-- Machine Learning, NLP, GenAI / LLM integration
-- End-to-end Data Pipeline Development
-
-If my profile matches your hiring needs, feel free to connect!
-
----
-
-## Quote of the Day
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-</p>
+If your team is hiring, or you know someone who is, I'd appreciate a connection or referral.
 
 ---
 
@@ -1253,5 +1225,6 @@ If my profile matches your hiring needs, feel free to connect!
 ---
 
 <div align="center">
-  <sub>⭐ Thank you for visiting! Open to exciting opportunities in Data Engineering, AI/ML, and Cloud Analytics.</sub>
+  <sub>⭐ Thank you for visiting! Open to Senior Data Engineering, AI/ML, and Data Platform roles.</sub>
 </div>
+```
