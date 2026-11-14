@@ -63,7 +63,7 @@ Things real pipelines taught me. I write about them [on LinkedIn](https://www.li
 
 | Role | Company | When |
 |---|---|---|
-| Data Engineer | Delaware North (TD Garden) · Boston, hybrid | Jul 2026 – Present |
+| Data Engineer | Delaware North (TD Garden) · Remote | Jul 2026 – Present |
 | Analyst, CRM Analytics | Delaware North (TD Garden) | May – Jul 2026 |
 | Data Specialist (Contract) | Rollins, Inc. · Atlanta | Aug 2025 – Mar 2026 |
 | Data Analyst, Mortgage Analytics (Contract) | Prasquare Technologies · Remote | Feb – Aug 2025 |
