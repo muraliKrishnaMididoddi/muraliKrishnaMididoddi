@@ -254,7 +254,7 @@ murali = {
 ## Recent Activity
 <!----
 <!--RECENT_ACTIVITY:start-->
-<!----1. ⭐ Starred [oracle-devrel/oracle-ai-developer-hub](https://github.com/oracle-devrel/oracle-ai-developer-hub)
+1. ⭐ Starred [oracle-devrel/oracle-ai-developer-hub](https://github.com/oracle-devrel/oracle-ai-developer-hub)
 2. 🔱 Forked [muraliKrishnaMididoddi/ebook](https://github.com/muraliKrishnaMididoddi/ebook) from [learning-zone/ebook](https://github.com/learning-zone/ebook)
 <!--RECENT_ACTIVITY:end-->
 
